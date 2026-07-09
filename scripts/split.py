@@ -11,8 +11,9 @@ import json
 import re
 import sys
 import unicodedata
+from pathlib import Path
 
-from paths import DOCS, MANIFEST
+from paths import DOCS, MANIFEST, require
 
 # Heading text -> destination. Anything unmapped gets a slugified fallback so a
 # new section can never be silently dropped.
@@ -38,6 +39,7 @@ def slugify(text: str) -> str:
 
 
 def main(src_path: str) -> None:
+    require(Path(src_path))
     src = open(src_path, encoding="utf-8").read()
     lines = src.split("\n")
 
@@ -51,7 +53,10 @@ def main(src_path: str) -> None:
     if not bounds:
         raise SystemExit("[split] no section boundaries found")
 
-    chunks = [(0, bounds[0], "index.md")]
+    # Only emit the preamble chunk if there IS a preamble. A document whose first
+    # line is a heading would otherwise yield an empty chunk that still gets a "\n"
+    # appended below, injecting a phantom leading newline and breaking round-trip.
+    chunks = [(0, bounds[0], "index.md")] if bounds[0] > 0 else []
     in_dex = False
     for n, start in enumerate(bounds):
         end = bounds[n + 1] if n + 1 < len(bounds) else len(lines)

@@ -16,7 +16,7 @@ import json
 import re
 import sys
 
-from paths import DEX_JSON, DOCS
+from paths import DEX_JSON, DOCS, require
 
 RARITY = {"🟩": "common", "🟨": "uncommon", "🟦": "rare", "🟪": "ultra_rare"}
 METHOD = {"🟢": "land", "🌊": "water_surface", "🐟": "underwater", "🎣": "fishing"}
@@ -184,7 +184,6 @@ def parse_gen(path) -> dict:
         entries.append({
             "dex": int(hm.group(2)),
             "name": hm.group(1),
-            "form": hm.group(3),
             "heading": block[0],
             "lines": [classify(l) for l in block[1:body_end]],
             "trailing": block[body_end:],
@@ -197,6 +196,8 @@ def parse_gen(path) -> dict:
 
 
 def main() -> None:
+    gen_files = [DOCS / "dex" / f"gen-{i}.md" for i in range(1, 10)]
+    require(*gen_files)
     gens = [parse_gen(DOCS / "dex" / f"gen-{i}.md") for i in range(1, 10)]
     DEX_JSON.write_text(json.dumps({"generations": gens}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
@@ -209,7 +210,6 @@ def main() -> None:
     print(f"[parse] {len(entries)} entries -> {DEX_JSON}")
     print(f"  dex numbers: {min(e['dex'] for e in entries)}–{max(e['dex'] for e in entries)}, "
           f"{len({e['dex'] for e in entries})} distinct")
-    print(f"  forms: {sum(bool(e['form']) for e in entries)}")
     for k, v in sorted(kinds.items(), key=lambda x: -x[1]):
         print(f"  {k:<14} {v:>5}")
 

@@ -11,7 +11,6 @@
     {
      "dex": 1,
      "name": "Bulbasaur",
-     "form": null,
      "heading": "### Bulbasaur (#1)",
      "lines": [
       {
@@ -48,7 +47,6 @@
     {
      "dex": 2,
      "name": "Ivysaur",
-     "form": null,
      "heading": "### Ivysaur (#2)",
      "lines": [
       {
@@ -90,7 +88,6 @@
     {
      "dex": 3,
      "name": "Venusaur",
-     "form": null,
      "heading": "### Venusaur (#3)",
      "lines": [
       {
@@ -149,7 +146,6 @@
     {
      "dex": 4,
      "name": "Charmander",
-     "form": null,
      "heading": "### Charmander (#4)",
      "lines": [
       {
@@ -208,7 +204,6 @@
     {
      "dex": 5,
      "name": "Charmeleon",
-     "form": null,
      "heading": "### Charmeleon (#5)",
      "lines": [
       {
@@ -272,7 +267,6 @@
     {
      "dex": 6,
      "name": "Charizard",
-     "form": null,
      "heading": "### Charizard (#6)",
      "lines": [
       {
@@ -366,7 +360,6 @@
     {
      "dex": 7,
      "name": "Squirtle",
-     "form": null,
      "heading": "### Squirtle (#7)",
      "lines": [
       {
@@ -438,7 +431,6 @@
     {
      "dex": 8,
      "name": "Wartortle",
-     "form": null,
      "heading": "### Wartortle (#8)",
      "lines": [
       {
@@ -515,7 +507,6 @@
     {
      "dex": 9,
      "name": "Blastoise",
-     "form": null,
      "heading": "### Blastoise (#9)",
      "lines": [
       {
@@ -635,7 +626,6 @@
     {
      "dex": 10,
      "name": "Caterpie",
-     "form": null,
      "heading": "### Caterpie (#10)",
      "lines": [
       {
@@ -680,7 +670,6 @@
     {
      "dex": 11,
      "name": "Metapod",
-     "form": null,
      "heading": "### Metapod (#11)",
      "lines": [
       {
@@ -730,7 +719,6 @@
     {
      "dex": 12,
      "name": "Butterfree",
-     "form": null,
      "heading": "### Butterfree (#12)",
      "lines": [
       {
@@ -788,7 +776,6 @@
     {
      "dex": 13,
      "name": "Weedle",
-     "form": null,
      "heading": "### Weedle (#13)",
      "lines": [
       {
@@ -831,7 +818,6 @@
     {
      "dex": 14,
      "name": "Kakuna",
-     "form": null,
      "heading": "### Kakuna (#14)",
      "lines": [
       {
@@ -879,7 +865,6 @@
     {
      "dex": 15,
      "name": "Beedrill",
-     "form": null,
      "heading": "### Beedrill (#15)",
      "lines": [
       {
@@ -937,7 +922,6 @@
     {
      "dex": 16,
      "name": "Pidgey",
-     "form": null,
      "heading": "### Pidgey (#16)",
      "lines": [
       {
@@ -988,7 +972,6 @@
     {
      "dex": 17,
      "name": "Pidgeotto",
-     "form": null,
      "heading": "### Pidgeotto (#17)",
      "lines": [
       {
@@ -1044,7 +1027,6 @@
     {
      "dex": 18,
      "name": "Pidgeot",
-     "form": null,
      "heading": "### Pidgeot (#18)",
      "lines": [
       {
@@ -1130,7 +1112,6 @@
     {
      "dex": 19,
      "name": "Rattata",
-     "form": null,
      "heading": "### Rattata (#19)",
      "lines": [
       {
@@ -1215,7 +1196,6 @@
     {
      "dex": 20,
      "name": "Raticate",
-     "form": null,
      "heading": "### Raticate (#20)",
      "lines": [
       {
@@ -1305,7 +1285,6 @@
     {
      "dex": 21,
      "name": "Spearow",
-     "form": null,
      "heading": "### Spearow (#21)",
      "lines": [
       {
@@ -1347,7 +1326,6 @@
     {
      "dex": 22,
      "name": "Fearow",
-     "form": null,
      "heading": "### Fearow (#22)",
      "lines": [
       {
@@ -1424,7 +1402,6 @@
     {
      "dex": 23,
      "name": "Ekans",
-     "form": null,
      "heading": "### Ekans (#23)",
      "lines": [
       {
@@ -1478,7 +1455,6 @@
     {
      "dex": 24,
      "name": "Arbok",
-     "form": null,
      "heading": "### Arbok (#24)",
      "lines": [
       {
@@ -1554,7 +1530,6 @@
     {
      "dex": 25,
      "name": "Pikachu",
-     "form": null,
      "heading": "### Pikachu (#25)",
      "lines": [
       {
@@ -1601,7 +1576,6 @@
     {
      "dex": 26,
      "name": "Raichu",
-     "form": null,
      "heading": "### Raichu (#26)",
      "lines": [
       {
@@ -1675,7 +1649,6 @@
     {
      "dex": 27,
      "name": "Sandshrew",
-     "form": null,
      "heading": "### Sandshrew (#27)",
      "lines": [
       {
@@ -1756,7 +1729,6 @@
     {
      "dex": 28,
      "name": "Sandslash",
-     "form": null,
      "heading": "### Sandslash (#28)",
      "lines": [
       {
@@ -1837,7 +1809,6 @@
     {
      "dex": 29,
      "name": "Nidoran-F",
-     "form": null,
      "heading": "### Nidoran-F (#29)",
      "lines": [
       {
@@ -1864,7 +1835,6 @@
     {
      "dex": 30,
      "name": "Nidorina",
-     "form": null,
      "heading": "### Nidorina (#30)",
      "lines": [
       {
@@ -1896,7 +1866,6 @@
     {
      "dex": 31,
      "name": "Nidoqueen",
-     "form": null,
      "heading": "### Nidoqueen (#31)",
      "lines": [
       {
@@ -1945,7 +1914,6 @@
     {
      "dex": 32,
      "name": "Nidoran-M",
-     "form": null,
      "heading": "### Nidoran-M (#32)",
      "lines": [
       {
@@ -1972,7 +1940,6 @@
     {
      "dex": 33,
      "name": "Nidorino",
-     "form": null,
      "heading": "### Nidorino (#33)",
      "lines": [
       {
@@ -2004,7 +1971,6 @@
     {
      "dex": 34,
      "name": "Nidoking",
-     "form": null,
      "heading": "### Nidoking (#34)",
      "lines": [
       {
@@ -2053,7 +2019,6 @@
     {
      "dex": 35,
      "name": "Clefairy",
-     "form": null,
      "heading": "### Clefairy (#35)",
      "lines": [
       {
@@ -2085,7 +2050,6 @@
     {
      "dex": 36,
      "name": "Clefable",
-     "form": null,
      "heading": "### Clefable (#36)",
      "lines": [
       {
@@ -2134,7 +2098,6 @@
     {
      "dex": 37,
      "name": "Vulpix",
-     "form": null,
      "heading": "### Vulpix (#37)",
      "lines": [
       {
@@ -2237,7 +2200,6 @@
     {
      "dex": 38,
      "name": "Ninetales",
-     "form": null,
      "heading": "### Ninetales (#38)",
      "lines": [
       {
@@ -2368,7 +2330,6 @@
     {
      "dex": 39,
      "name": "Jigglypuff",
-     "form": null,
      "heading": "### Jigglypuff (#39)",
      "lines": [
       {
@@ -2426,7 +2387,6 @@
     {
      "dex": 40,
      "name": "Wigglytuff",
-     "form": null,
      "heading": "### Wigglytuff (#40)",
      "lines": [
       {
@@ -2489,7 +2449,6 @@
     {
      "dex": 41,
      "name": "Zubat",
-     "form": null,
      "heading": "### Zubat (#41)",
      "lines": [
       {
@@ -2571,7 +2530,6 @@
     {
      "dex": 42,
      "name": "Golbat",
-     "form": null,
      "heading": "### Golbat (#42)",
      "lines": [
       {
@@ -2658,7 +2616,6 @@
     {
      "dex": 43,
      "name": "Oddish",
-     "form": null,
      "heading": "### Oddish (#43)",
      "lines": [
       {
@@ -2702,7 +2659,6 @@
     {
      "dex": 44,
      "name": "Gloom",
-     "form": null,
      "heading": "### Gloom (#44)",
      "lines": [
       {
@@ -2751,7 +2707,6 @@
     {
      "dex": 45,
      "name": "Vileplume",
-     "form": null,
      "heading": "### Vileplume (#45)",
      "lines": [
       {
@@ -2819,7 +2774,6 @@
     {
      "dex": 46,
      "name": "Paras",
-     "form": null,
      "heading": "### Paras (#46)",
      "lines": [
       {
@@ -2885,7 +2839,6 @@
     {
      "dex": 47,
      "name": "Parasect",
-     "form": null,
      "heading": "### Parasect (#47)",
      "lines": [
       {
@@ -2961,7 +2914,6 @@
     {
      "dex": 48,
      "name": "Venonat",
-     "form": null,
      "heading": "### Venonat (#48)",
      "lines": [
       {
@@ -3001,7 +2953,6 @@
     {
      "dex": 49,
      "name": "Venomoth",
-     "form": null,
      "heading": "### Venomoth (#49)",
      "lines": [
       {
@@ -3046,7 +2997,6 @@
     {
      "dex": 50,
      "name": "Diglett",
-     "form": null,
      "heading": "### Diglett (#50)",
      "lines": [
       {
@@ -3105,7 +3055,6 @@
     {
      "dex": 51,
      "name": "Dugtrio",
-     "form": null,
      "heading": "### Dugtrio (#51)",
      "lines": [
       {
@@ -3169,7 +3118,6 @@
     {
      "dex": 52,
      "name": "Meowth",
-     "form": null,
      "heading": "### Meowth (#52)",
      "lines": [
       {
@@ -3258,7 +3206,6 @@
     {
      "dex": 53,
      "name": "Persian",
-     "form": null,
      "heading": "### Persian (#53)",
      "lines": [
       {
@@ -3342,7 +3289,6 @@
     {
      "dex": 54,
      "name": "Psyduck",
-     "form": null,
      "heading": "### Psyduck (#54)",
      "lines": [
       {
@@ -3415,7 +3361,6 @@
     {
      "dex": 55,
      "name": "Golduck",
-     "form": null,
      "heading": "### Golduck (#55)",
      "lines": [
       {
@@ -3523,7 +3468,6 @@
     {
      "dex": 56,
      "name": "Mankey",
-     "form": null,
      "heading": "### Mankey (#56)",
      "lines": [
       {
@@ -3563,7 +3507,6 @@
     {
      "dex": 57,
      "name": "Primeape",
-     "form": null,
      "heading": "### Primeape (#57)",
      "lines": [
       {
@@ -3625,7 +3568,6 @@
     {
      "dex": 58,
      "name": "Growlithe",
-     "form": null,
      "heading": "### Growlithe (#58)",
      "lines": [
       {
@@ -3741,7 +3683,6 @@
     {
      "dex": 59,
      "name": "Arcanine",
-     "form": null,
      "heading": "### Arcanine (#59)",
      "lines": [
       {
@@ -3864,7 +3805,6 @@
     {
      "dex": 60,
      "name": "Poliwag",
-     "form": null,
      "heading": "### Poliwag (#60)",
      "lines": [
       {
@@ -3951,7 +3891,6 @@
     {
      "dex": 61,
      "name": "Poliwhirl",
-     "form": null,
      "heading": "### Poliwhirl (#61)",
      "lines": [
       {
@@ -4043,7 +3982,6 @@
     {
      "dex": 62,
      "name": "Poliwrath",
-     "form": null,
      "heading": "### Poliwrath (#62)",
      "lines": [
       {
@@ -4152,7 +4090,6 @@
     {
      "dex": 63,
      "name": "Abra",
-     "form": null,
      "heading": "### Abra (#63)",
      "lines": [
       {
@@ -4255,7 +4192,6 @@
     {
      "dex": 64,
      "name": "Kadabra",
-     "form": null,
      "heading": "### Kadabra (#64)",
      "lines": [
       {
@@ -4363,7 +4299,6 @@
     {
      "dex": 65,
      "name": "Alakazam",
-     "form": null,
      "heading": "### Alakazam (#65)",
      "lines": [
       {
@@ -4501,7 +4436,6 @@
     {
      "dex": 66,
      "name": "Machop",
-     "form": null,
      "heading": "### Machop (#66)",
      "lines": [
       {
@@ -4540,7 +4474,6 @@
     {
      "dex": 67,
      "name": "Machoke",
-     "form": null,
      "heading": "### Machoke (#67)",
      "lines": [
       {
@@ -4584,7 +4517,6 @@
     {
      "dex": 68,
      "name": "Machamp",
-     "form": null,
      "heading": "### Machamp (#68)",
      "lines": [
       {
@@ -4645,7 +4577,6 @@
     {
      "dex": 69,
      "name": "Bellsprout",
-     "form": null,
      "heading": "### Bellsprout (#69)",
      "lines": [
       {
@@ -4681,7 +4612,6 @@
     {
      "dex": 70,
      "name": "Weepinbell",
-     "form": null,
      "heading": "### Weepinbell (#70)",
      "lines": [
       {
@@ -4722,7 +4652,6 @@
     {
      "dex": 71,
      "name": "Victreebel",
-     "form": null,
      "heading": "### Victreebel (#71)",
      "lines": [
       {
@@ -4780,7 +4709,6 @@
     {
      "dex": 72,
      "name": "Tentacool",
-     "form": null,
      "heading": "### Tentacool (#72)",
      "lines": [
       {
@@ -4847,7 +4775,6 @@
     {
      "dex": 73,
      "name": "Tentacruel",
-     "form": null,
      "heading": "### Tentacruel (#73)",
      "lines": [
       {
@@ -4908,7 +4835,6 @@
     {
      "dex": 74,
      "name": "Geodude",
-     "form": null,
      "heading": "### Geodude (#74)",
      "lines": [
       {
@@ -5013,7 +4939,6 @@
     {
      "dex": 75,
      "name": "Graveler",
-     "form": null,
      "heading": "### Graveler (#75)",
      "lines": [
       {
@@ -5117,7 +5042,6 @@
     {
      "dex": 76,
      "name": "Golem",
-     "form": null,
      "heading": "### Golem (#76)",
      "lines": [
       {
@@ -5260,7 +5184,6 @@
     {
      "dex": 77,
      "name": "Ponyta",
-     "form": null,
      "heading": "### Ponyta (#77)",
      "lines": [
       {
@@ -5351,7 +5274,6 @@
     {
      "dex": 78,
      "name": "Rapidash",
-     "form": null,
      "heading": "### Rapidash (#78)",
      "lines": [
       {
@@ -5448,7 +5370,6 @@
     {
      "dex": 79,
      "name": "Slowpoke",
-     "form": null,
      "heading": "### Slowpoke (#79)",
      "lines": [
       {
@@ -5569,7 +5490,6 @@
     {
      "dex": 80,
      "name": "Slowbro",
-     "form": null,
      "heading": "### Slowbro (#80)",
      "lines": [
       {
@@ -5716,7 +5636,6 @@
     {
      "dex": 81,
      "name": "Magnemite",
-     "form": null,
      "heading": "### Magnemite (#81)",
      "lines": [
       {
@@ -5769,7 +5688,6 @@
     {
      "dex": 82,
      "name": "Magneton",
-     "form": null,
      "heading": "### Magneton (#82)",
      "lines": [
       {
@@ -5822,7 +5740,6 @@
     {
      "dex": 83,
      "name": "Farfetch’d",
-     "form": null,
      "heading": "### Farfetch’d (#83)",
      "lines": [
       {
@@ -5868,7 +5785,6 @@
     {
      "dex": 84,
      "name": "Doduo",
-     "form": null,
      "heading": "### Doduo (#84)",
      "lines": [
       {
@@ -5907,7 +5823,6 @@
     {
      "dex": 85,
      "name": "Dodrio",
-     "form": null,
      "heading": "### Dodrio (#85)",
      "lines": [
       {
@@ -5968,7 +5883,6 @@
     {
      "dex": 86,
      "name": "Seel",
-     "form": null,
      "heading": "### Seel (#86)",
      "lines": [
       {
@@ -5985,7 +5899,6 @@
     {
      "dex": 87,
      "name": "Dewgong",
-     "form": null,
      "heading": "### Dewgong (#87)",
      "lines": [
       {
@@ -6037,7 +5950,6 @@
     {
      "dex": 88,
      "name": "Grimer",
-     "form": null,
      "heading": "### Grimer (#88)",
      "lines": [
       {
@@ -6089,7 +6001,6 @@
     {
      "dex": 89,
      "name": "Muk",
-     "form": null,
      "heading": "### Muk (#89)",
      "lines": [
       {
@@ -6163,7 +6074,6 @@
     {
      "dex": 90,
      "name": "Shellder",
-     "form": null,
      "heading": "### Shellder (#90)",
      "lines": [
       {
@@ -6215,7 +6125,6 @@
     {
      "dex": 91,
      "name": "Cloyster",
-     "form": null,
      "heading": "### Cloyster (#91)",
      "lines": [
       {
@@ -6302,7 +6211,6 @@
     {
      "dex": 92,
      "name": "Gastly",
-     "form": null,
      "heading": "### Gastly (#92)",
      "lines": [
       {
@@ -6364,7 +6272,6 @@
     {
      "dex": 93,
      "name": "Haunter",
-     "form": null,
      "heading": "### Haunter (#93)",
      "lines": [
       {
@@ -6418,7 +6325,6 @@
     {
      "dex": 94,
      "name": "Gengar",
-     "form": null,
      "heading": "### Gengar (#94)",
      "lines": [
       {
@@ -6502,7 +6408,6 @@
     {
      "dex": 95,
      "name": "Onix",
-     "form": null,
      "heading": "### Onix (#95)",
      "lines": [
       {
@@ -6560,7 +6465,6 @@
     {
      "dex": 96,
      "name": "Drowzee",
-     "form": null,
      "heading": "### Drowzee (#96)",
      "lines": [
       {
@@ -6598,7 +6502,6 @@
     {
      "dex": 97,
      "name": "Hypno",
-     "form": null,
      "heading": "### Hypno (#97)",
      "lines": [
       {
@@ -6641,7 +6544,6 @@
     {
      "dex": 98,
      "name": "Krabby",
-     "form": null,
      "heading": "### Krabby (#98)",
      "lines": [
       {
@@ -6699,7 +6601,6 @@
     {
      "dex": 99,
      "name": "Kingler",
-     "form": null,
      "heading": "### Kingler (#99)",
      "lines": [
       {
@@ -6792,7 +6693,6 @@
     {
      "dex": 100,
      "name": "Voltorb",
-     "form": null,
      "heading": "### Voltorb (#100)",
      "lines": [
       {
@@ -6853,7 +6753,6 @@
     {
      "dex": 101,
      "name": "Electrode",
-     "form": null,
      "heading": "### Electrode (#101)",
      "lines": [
       {
@@ -6896,7 +6795,6 @@
     {
      "dex": 102,
      "name": "Exeggcute",
-     "form": null,
      "heading": "### Exeggcute (#102)",
      "lines": [
       {
@@ -6954,7 +6852,6 @@
     {
      "dex": 103,
      "name": "Exeggutor",
-     "form": null,
      "heading": "### Exeggutor (#103)",
      "lines": [
       {
@@ -7043,7 +6940,6 @@
     {
      "dex": 104,
      "name": "Cubone",
-     "form": null,
      "heading": "### Cubone (#104)",
      "lines": [
       {
@@ -7101,7 +6997,6 @@
     {
      "dex": 105,
      "name": "Marowak",
-     "form": null,
      "heading": "### Marowak (#105)",
      "lines": [
       {
@@ -7205,7 +7100,6 @@
     {
      "dex": 106,
      "name": "Hitmonlee",
-     "form": null,
      "heading": "### Hitmonlee (#106)",
      "lines": [
       {
@@ -7249,7 +7143,6 @@
     {
      "dex": 107,
      "name": "Hitmonchan",
-     "form": null,
      "heading": "### Hitmonchan (#107)",
      "lines": [
       {
@@ -7293,7 +7186,6 @@
     {
      "dex": 108,
      "name": "Lickitung",
-     "form": null,
      "heading": "### Lickitung (#108)",
      "lines": [
       {
@@ -7349,7 +7241,6 @@
     {
      "dex": 109,
      "name": "Koffing",
-     "form": null,
      "heading": "### Koffing (#109)",
      "lines": [
       {
@@ -7403,7 +7294,6 @@
     {
      "dex": 110,
      "name": "Weezing",
-     "form": null,
      "heading": "### Weezing (#110)",
      "lines": [
       {
@@ -7451,7 +7341,6 @@
     {
      "dex": 111,
      "name": "Rhyhorn",
-     "form": null,
      "heading": "### Rhyhorn (#111)",
      "lines": [
       {
@@ -7530,7 +7419,6 @@
     {
      "dex": 112,
      "name": "Rhydon",
-     "form": null,
      "heading": "### Rhydon (#112)",
      "lines": [
       {
@@ -7619,7 +7507,6 @@
     {
      "dex": 113,
      "name": "Chansey",
-     "form": null,
      "heading": "### Chansey (#113)",
      "lines": [
       {
@@ -7677,7 +7564,6 @@
     {
      "dex": 114,
      "name": "Tangela",
-     "form": null,
      "heading": "### Tangela (#114)",
      "lines": [
       {
@@ -7713,7 +7599,6 @@
     {
      "dex": 115,
      "name": "Kangaskhan",
-     "form": null,
      "heading": "### Kangaskhan (#115)",
      "lines": [
       {
@@ -7767,7 +7652,6 @@
     {
      "dex": 116,
      "name": "Horsea",
-     "form": null,
      "heading": "### Horsea (#116)",
      "lines": [
       {
@@ -7815,7 +7699,6 @@
     {
      "dex": 117,
      "name": "Seadra",
-     "form": null,
      "heading": "### Seadra (#117)",
      "lines": [
       {
@@ -7868,7 +7751,6 @@
     {
      "dex": 118,
      "name": "Goldeen",
-     "form": null,
      "heading": "### Goldeen (#118)",
      "lines": [
       {
@@ -7928,7 +7810,6 @@
     {
      "dex": 119,
      "name": "Seaking",
-     "form": null,
      "heading": "### Seaking (#119)",
      "lines": [
       {
@@ -8010,7 +7891,6 @@
     {
      "dex": 120,
      "name": "Staryu",
-     "form": null,
      "heading": "### Staryu (#120)",
      "lines": [
       {
@@ -8081,7 +7961,6 @@
     {
      "dex": 121,
      "name": "Starmie",
-     "form": null,
      "heading": "### Starmie (#121)",
      "lines": [
       {
@@ -8146,7 +8025,6 @@
     {
      "dex": 122,
      "name": "Mr. Mime",
-     "form": null,
      "heading": "### Mr. Mime (#122)",
      "lines": [
       {
@@ -8234,7 +8112,6 @@
     {
      "dex": 123,
      "name": "Scyther",
-     "form": null,
      "heading": "### Scyther (#123)",
      "lines": [
       {
@@ -8315,7 +8192,6 @@
     {
      "dex": 124,
      "name": "Jynx",
-     "form": null,
      "heading": "### Jynx (#124)",
      "lines": [
       {
@@ -8337,7 +8213,6 @@
     {
      "dex": 125,
      "name": "Electabuzz",
-     "form": null,
      "heading": "### Electabuzz (#125)",
      "lines": [
       {
@@ -8383,7 +8258,6 @@
     {
      "dex": 126,
      "name": "Magmar",
-     "form": null,
      "heading": "### Magmar (#126)",
      "lines": [
       {
@@ -8451,7 +8325,6 @@
     {
      "dex": 127,
      "name": "Pinsir",
-     "form": null,
      "heading": "### Pinsir (#127)",
      "lines": [
       {
@@ -8509,7 +8382,6 @@
     {
      "dex": 128,
      "name": "Tauros",
-     "form": null,
      "heading": "### Tauros (#128)",
      "lines": [
       {
@@ -8565,7 +8437,6 @@
     {
      "dex": 129,
      "name": "Magikarp",
-     "form": null,
      "heading": "### Magikarp (#129)",
      "lines": [
       {
@@ -8621,7 +8492,6 @@
     {
      "dex": 130,
      "name": "Gyarados",
-     "form": null,
      "heading": "### Gyarados (#130)",
      "lines": [
       {
@@ -8725,7 +8595,6 @@
     {
      "dex": 131,
      "name": "Lapras",
-     "form": null,
      "heading": "### Lapras (#131)",
      "lines": [
       {
@@ -8772,7 +8641,6 @@
     {
      "dex": 132,
      "name": "Ditto",
-     "form": null,
      "heading": "### Ditto (#132)",
      "lines": [
       {
@@ -8808,7 +8676,6 @@
     {
      "dex": 133,
      "name": "Eevee",
-     "form": null,
      "heading": "### Eevee (#133)",
      "lines": [
       {
@@ -8873,7 +8740,6 @@
     {
      "dex": 134,
      "name": "Vaporeon",
-     "form": null,
      "heading": "### Vaporeon (#134)",
      "lines": [
       {
@@ -8975,7 +8841,6 @@
     {
      "dex": 135,
      "name": "Jolteon",
-     "form": null,
      "heading": "### Jolteon (#135)",
      "lines": [
       {
@@ -9049,7 +8914,6 @@
     {
      "dex": 136,
      "name": "Flareon",
-     "form": null,
      "heading": "### Flareon (#136)",
      "lines": [
       {
@@ -9125,7 +8989,6 @@
     {
      "dex": 137,
      "name": "Porygon",
-     "form": null,
      "heading": "### Porygon (#137)",
      "lines": [
       {
@@ -9152,7 +9015,6 @@
     {
      "dex": 138,
      "name": "Omanyte",
-     "form": null,
      "heading": "### Omanyte (#138)",
      "lines": [
       {
@@ -9168,7 +9030,6 @@
     {
      "dex": 139,
      "name": "Omastar",
-     "form": null,
      "heading": "### Omastar (#139)",
      "lines": [
       {
@@ -9184,7 +9045,6 @@
     {
      "dex": 140,
      "name": "Kabuto",
-     "form": null,
      "heading": "### Kabuto (#140)",
      "lines": [
       {
@@ -9200,7 +9060,6 @@
     {
      "dex": 141,
      "name": "Kabutops",
-     "form": null,
      "heading": "### Kabutops (#141)",
      "lines": [
       {
@@ -9216,7 +9075,6 @@
     {
      "dex": 142,
      "name": "Aerodactyl",
-     "form": null,
      "heading": "### Aerodactyl (#142)",
      "lines": [
       {
@@ -9262,7 +9120,6 @@
     {
      "dex": 143,
      "name": "Snorlax",
-     "form": null,
      "heading": "### Snorlax (#143)",
      "lines": [
       {
@@ -9344,7 +9201,6 @@
     {
      "dex": 144,
      "name": "Articuno",
-     "form": null,
      "heading": "### Articuno (#144)",
      "lines": [
       {
@@ -9416,7 +9272,6 @@
     {
      "dex": 145,
      "name": "Zapdos",
-     "form": null,
      "heading": "### Zapdos (#145)",
      "lines": [
       {
@@ -9481,7 +9336,6 @@
     {
      "dex": 146,
      "name": "Moltres",
-     "form": null,
      "heading": "### Moltres (#146)",
      "lines": [
       {
@@ -9548,7 +9402,6 @@
     {
      "dex": 147,
      "name": "Dratini",
-     "form": null,
      "heading": "### Dratini (#147)",
      "lines": [
       {
@@ -9565,7 +9418,6 @@
     {
      "dex": 148,
      "name": "Dragonair",
-     "form": null,
      "heading": "### Dragonair (#148)",
      "lines": [
       {
@@ -9587,7 +9439,6 @@
     {
      "dex": 149,
      "name": "Dragonite",
-     "form": null,
      "heading": "### Dragonite (#149)",
      "lines": [
       {
@@ -9652,7 +9503,6 @@
     {
      "dex": 150,
      "name": "Mewtwo",
-     "form": null,
      "heading": "### Mewtwo (#150)",
      "lines": [
       {
@@ -9688,7 +9538,6 @@
     {
      "dex": 151,
      "name": "Mew",
-     "form": null,
      "heading": "### Mew (#151)",
      "lines": [
       {
@@ -9734,7 +9583,6 @@
     {
      "dex": 152,
      "name": "Chikorita",
-     "form": null,
      "heading": "### Chikorita (#152)",
      "lines": [
       {
@@ -9751,7 +9599,6 @@
     {
      "dex": 153,
      "name": "Bayleef",
-     "form": null,
      "heading": "### Bayleef (#153)",
      "lines": [
       {
@@ -9773,7 +9620,6 @@
     {
      "dex": 154,
      "name": "Meganium",
-     "form": null,
      "heading": "### Meganium (#154)",
      "lines": [
       {
@@ -9812,7 +9658,6 @@
     {
      "dex": 155,
      "name": "Cyndaquil",
-     "form": null,
      "heading": "### Cyndaquil (#155)",
      "lines": [
       {
@@ -9864,7 +9709,6 @@
     {
      "dex": 156,
      "name": "Quilava",
-     "form": null,
      "heading": "### Quilava (#156)",
      "lines": [
       {
@@ -9921,7 +9765,6 @@
     {
      "dex": 157,
      "name": "Typhlosion",
-     "form": null,
      "heading": "### Typhlosion (#157)",
      "lines": [
       {
@@ -10020,7 +9863,6 @@
     {
      "dex": 158,
      "name": "Totodile",
-     "form": null,
      "heading": "### Totodile (#158)",
      "lines": [
       {
@@ -10080,7 +9922,6 @@
     {
      "dex": 159,
      "name": "Croconaw",
-     "form": null,
      "heading": "### Croconaw (#159)",
      "lines": [
       {
@@ -10145,7 +9986,6 @@
     {
      "dex": 160,
      "name": "Feraligatr",
-     "form": null,
      "heading": "### Feraligatr (#160)",
      "lines": [
       {
@@ -10240,7 +10080,6 @@
     {
      "dex": 161,
      "name": "Sentret",
-     "form": null,
      "heading": "### Sentret (#161)",
      "lines": [
       {
@@ -10282,7 +10121,6 @@
     {
      "dex": 162,
      "name": "Furret",
-     "form": null,
      "heading": "### Furret (#162)",
      "lines": [
       {
@@ -10329,7 +10167,6 @@
     {
      "dex": 163,
      "name": "Hoothoot",
-     "form": null,
      "heading": "### Hoothoot (#163)",
      "lines": [
       {
@@ -10371,7 +10208,6 @@
     {
      "dex": 164,
      "name": "Noctowl",
-     "form": null,
      "heading": "### Noctowl (#164)",
      "lines": [
       {
@@ -10448,7 +10284,6 @@
     {
      "dex": 165,
      "name": "Ledyba",
-     "form": null,
      "heading": "### Ledyba (#165)",
      "lines": [
       {
@@ -10498,7 +10333,6 @@
     {
      "dex": 166,
      "name": "Ledian",
-     "form": null,
      "heading": "### Ledian (#166)",
      "lines": [
       {
@@ -10553,7 +10387,6 @@
     {
      "dex": 167,
      "name": "Spinarak",
-     "form": null,
      "heading": "### Spinarak (#167)",
      "lines": [
       {
@@ -10602,7 +10435,6 @@
     {
      "dex": 168,
      "name": "Ariados",
-     "form": null,
      "heading": "### Ariados (#168)",
      "lines": [
       {
@@ -10673,7 +10505,6 @@
     {
      "dex": 169,
      "name": "Crobat",
-     "form": null,
      "heading": "### Crobat (#169)",
      "lines": [
       {
@@ -10777,7 +10608,6 @@
     {
      "dex": 170,
      "name": "Chinchou",
-     "form": null,
      "heading": "### Chinchou (#170)",
      "lines": [
       {
@@ -10804,7 +10634,6 @@
     {
      "dex": 171,
      "name": "Lanturn",
-     "form": null,
      "heading": "### Lanturn (#171)",
      "lines": [
       {
@@ -10853,7 +10682,6 @@
     {
      "dex": 172,
      "name": "Pichu",
-     "form": null,
      "heading": "### Pichu (#172)",
      "lines": [
       {
@@ -10869,7 +10697,6 @@
     {
      "dex": 173,
      "name": "Cleffa",
-     "form": null,
      "heading": "### Cleffa (#173)",
      "lines": [
       {
@@ -10896,7 +10723,6 @@
     {
      "dex": 174,
      "name": "Igglybuff",
-     "form": null,
      "heading": "### Igglybuff (#174)",
      "lines": [
       {
@@ -10949,7 +10775,6 @@
     {
      "dex": 175,
      "name": "Togepi",
-     "form": null,
      "heading": "### Togepi (#175)",
      "lines": [
       {
@@ -11027,7 +10852,6 @@
     {
      "dex": 176,
      "name": "Togetic",
-     "form": null,
      "heading": "### Togetic (#176)",
      "lines": [
       {
@@ -11110,7 +10934,6 @@
     {
      "dex": 177,
      "name": "Natu",
-     "form": null,
      "heading": "### Natu (#177)",
      "lines": [
       {
@@ -11172,7 +10995,6 @@
     {
      "dex": 178,
      "name": "Xatu",
-     "form": null,
      "heading": "### Xatu (#178)",
      "lines": [
       {
@@ -11234,7 +11056,6 @@
     {
      "dex": 179,
      "name": "Mareep",
-     "form": null,
      "heading": "### Mareep (#179)",
      "lines": [
       {
@@ -11273,7 +11094,6 @@
     {
      "dex": 180,
      "name": "Flaaffy",
-     "form": null,
      "heading": "### Flaaffy (#180)",
      "lines": [
       {
@@ -11317,7 +11137,6 @@
     {
      "dex": 181,
      "name": "Ampharos",
-     "form": null,
      "heading": "### Ampharos (#181)",
      "lines": [
       {
@@ -11361,7 +11180,6 @@
     {
      "dex": 182,
      "name": "Bellossom",
-     "form": null,
      "heading": "### Bellossom (#182)",
      "lines": [
       {
@@ -11409,7 +11227,6 @@
     {
      "dex": 183,
      "name": "Marill",
-     "form": null,
      "heading": "### Marill (#183)",
      "lines": [
       {
@@ -11502,7 +11319,6 @@
     {
      "dex": 184,
      "name": "Azumarill",
-     "form": null,
      "heading": "### Azumarill (#184)",
      "lines": [
       {
@@ -11534,7 +11350,6 @@
     {
      "dex": 185,
      "name": "Sudowoodo",
-     "form": null,
      "heading": "### Sudowoodo (#185)",
      "lines": [
       {
@@ -11576,7 +11391,6 @@
     {
      "dex": 186,
      "name": "Politoed",
-     "form": null,
      "heading": "### Politoed (#186)",
      "lines": [
       {
@@ -11668,7 +11482,6 @@
     {
      "dex": 187,
      "name": "Hoppip",
-     "form": null,
      "heading": "### Hoppip (#187)",
      "lines": [
       {
@@ -11709,7 +11522,6 @@
     {
      "dex": 188,
      "name": "Skiploom",
-     "form": null,
      "heading": "### Skiploom (#188)",
      "lines": [
       {
@@ -11755,7 +11567,6 @@
     {
      "dex": 189,
      "name": "Jumpluff",
-     "form": null,
      "heading": "### Jumpluff (#189)",
      "lines": [
       {
@@ -11801,7 +11612,6 @@
     {
      "dex": 190,
      "name": "Aipom",
-     "form": null,
      "heading": "### Aipom (#190)",
      "lines": [
       {
@@ -11839,7 +11649,6 @@
     {
      "dex": 191,
      "name": "Sunkern",
-     "form": null,
      "heading": "### Sunkern (#191)",
      "lines": [
       {
@@ -11879,7 +11688,6 @@
     {
      "dex": 192,
      "name": "Sunflora",
-     "form": null,
      "heading": "### Sunflora (#192)",
      "lines": [
       {
@@ -11924,7 +11732,6 @@
     {
      "dex": 193,
      "name": "Yanma",
-     "form": null,
      "heading": "### Yanma (#193)",
      "lines": [
       {
@@ -11973,7 +11780,6 @@
     {
      "dex": 194,
      "name": "Wooper",
-     "form": null,
      "heading": "### Wooper (#194)",
      "lines": [
       {
@@ -12177,7 +11983,6 @@
     {
      "dex": 195,
      "name": "Quagsire",
-     "form": null,
      "heading": "### Quagsire (#195)",
      "lines": [
       {
@@ -12252,7 +12057,6 @@
     {
      "dex": 196,
      "name": "Espeon",
-     "form": null,
      "heading": "### Espeon (#196)",
      "lines": [
       {
@@ -12364,7 +12168,6 @@
     {
      "dex": 197,
      "name": "Umbreon",
-     "form": null,
      "heading": "### Umbreon (#197)",
      "lines": [
       {
@@ -12413,7 +12216,6 @@
     {
      "dex": 198,
      "name": "Murkrow",
-     "form": null,
      "heading": "### Murkrow (#198)",
      "lines": [
       {
@@ -12458,7 +12260,6 @@
     {
      "dex": 199,
      "name": "Slowking",
-     "form": null,
      "heading": "### Slowking (#199)",
      "lines": [
       {
@@ -12520,7 +12321,6 @@
     {
      "dex": 200,
      "name": "Misdreavus",
-     "form": null,
      "heading": "### Misdreavus (#200)",
      "lines": [
       {
@@ -12598,7 +12398,6 @@
     {
      "dex": 201,
      "name": "Unown",
-     "form": null,
      "heading": "### Unown (#201)",
      "lines": [
       {
@@ -12643,7 +12442,6 @@
     {
      "dex": 202,
      "name": "Wobbuffet",
-     "form": null,
      "heading": "### Wobbuffet (#202)",
      "lines": [
       {
@@ -12684,7 +12482,6 @@
     {
      "dex": 203,
      "name": "Girafarig",
-     "form": null,
      "heading": "### Girafarig (#203)",
      "lines": [
       {
@@ -12738,7 +12535,6 @@
     {
      "dex": 204,
      "name": "Pineco",
-     "form": null,
      "heading": "### Pineco (#204)",
      "lines": [
       {
@@ -12775,7 +12571,6 @@
     {
      "dex": 205,
      "name": "Forretress",
-     "form": null,
      "heading": "### Forretress (#205)",
      "lines": [
       {
@@ -12834,7 +12629,6 @@
     {
      "dex": 206,
      "name": "Dunsparce",
-     "form": null,
      "heading": "### Dunsparce (#206)",
      "lines": [
       {
@@ -12870,7 +12664,6 @@
     {
      "dex": 207,
      "name": "Gligar",
-     "form": null,
      "heading": "### Gligar (#207)",
      "lines": [
       {
@@ -12937,7 +12730,6 @@
     {
      "dex": 208,
      "name": "Steelix",
-     "form": null,
      "heading": "### Steelix (#208)",
      "lines": [
       {
@@ -13005,7 +12797,6 @@
     {
      "dex": 209,
      "name": "Snubbull",
-     "form": null,
      "heading": "### Snubbull (#209)",
      "lines": [
       {
@@ -13041,7 +12832,6 @@
     {
      "dex": 210,
      "name": "Granbull",
-     "form": null,
      "heading": "### Granbull (#210)",
      "lines": [
       {
@@ -13099,7 +12889,6 @@
     {
      "dex": 211,
      "name": "Qwilfish",
-     "form": null,
      "heading": "### Qwilfish (#211)",
      "lines": [
       {
@@ -13200,7 +12989,6 @@
     {
      "dex": 212,
      "name": "Scizor",
-     "form": null,
      "heading": "### Scizor (#212)",
      "lines": [
       {
@@ -13273,7 +13061,6 @@
     {
      "dex": 213,
      "name": "Shuckle",
-     "form": null,
      "heading": "### Shuckle (#213)",
      "lines": [
       {
@@ -13300,7 +13087,6 @@
     {
      "dex": 214,
      "name": "Heracross",
-     "form": null,
      "heading": "### Heracross (#214)",
      "lines": [
       {
@@ -13372,7 +13158,6 @@
     {
      "dex": 215,
      "name": "Sneasel",
-     "form": null,
      "heading": "### Sneasel (#215)",
      "lines": [
       {
@@ -13412,7 +13197,6 @@
     {
      "dex": 216,
      "name": "Teddiursa",
-     "form": null,
      "heading": "### Teddiursa (#216)",
      "lines": [
       {
@@ -13455,7 +13239,6 @@
     {
      "dex": 217,
      "name": "Ursaring",
-     "form": null,
      "heading": "### Ursaring (#217)",
      "lines": [
       {
@@ -13520,7 +13303,6 @@
     {
      "dex": 218,
      "name": "Slugma",
-     "form": null,
      "heading": "### Slugma (#218)",
      "lines": [
       {
@@ -13597,7 +13379,6 @@
     {
      "dex": 219,
      "name": "Magcargo",
-     "form": null,
      "heading": "### Magcargo (#219)",
      "lines": [
       {
@@ -13701,7 +13482,6 @@
     {
      "dex": 220,
      "name": "Swinub",
-     "form": null,
      "heading": "### Swinub (#220)",
      "lines": [
       {
@@ -13749,7 +13529,6 @@
     {
      "dex": 221,
      "name": "Piloswine",
-     "form": null,
      "heading": "### Piloswine (#221)",
      "lines": [
       {
@@ -13824,7 +13603,6 @@
     {
      "dex": 222,
      "name": "Corsola",
-     "form": null,
      "heading": "### Corsola (#222)",
      "lines": [
       {
@@ -13960,7 +13738,6 @@
     {
      "dex": 223,
      "name": "Remoraid",
-     "form": null,
      "heading": "### Remoraid (#223)",
      "lines": [
       {
@@ -14007,7 +13784,6 @@
     {
      "dex": 224,
      "name": "Octillery",
-     "form": null,
      "heading": "### Octillery (#224)",
      "lines": [
       {
@@ -14059,7 +13835,6 @@
     {
      "dex": 225,
      "name": "Delibird",
-     "form": null,
      "heading": "### Delibird (#225)",
      "lines": [
       {
@@ -14076,7 +13851,6 @@
     {
      "dex": 226,
      "name": "Mantine",
-     "form": null,
      "heading": "### Mantine (#226)",
      "lines": [
       {
@@ -14147,7 +13921,6 @@
     {
      "dex": 227,
      "name": "Skarmory",
-     "form": null,
      "heading": "### Skarmory (#227)",
      "lines": [
       {
@@ -14229,7 +14002,6 @@
     {
      "dex": 228,
      "name": "Houndour",
-     "form": null,
      "heading": "### Houndour (#228)",
      "lines": [
       {
@@ -14283,7 +14055,6 @@
     {
      "dex": 229,
      "name": "Houndoom",
-     "form": null,
      "heading": "### Houndoom (#229)",
      "lines": [
       {
@@ -14348,7 +14119,6 @@
     {
      "dex": 230,
      "name": "Kingdra",
-     "form": null,
      "heading": "### Kingdra (#230)",
      "lines": [
       {
@@ -14418,7 +14188,6 @@
     {
      "dex": 231,
      "name": "Phanpy",
-     "form": null,
      "heading": "### Phanpy (#231)",
      "lines": [
       {
@@ -14457,7 +14226,6 @@
     {
      "dex": 232,
      "name": "Donphan",
-     "form": null,
      "heading": "### Donphan (#232)",
      "lines": [
       {
@@ -14518,7 +14286,6 @@
     {
      "dex": 233,
      "name": "Porygon2",
-     "form": null,
      "heading": "### Porygon2 (#233)",
      "lines": [
       {
@@ -14567,7 +14334,6 @@
     {
      "dex": 234,
      "name": "Stantler",
-     "form": null,
      "heading": "### Stantler (#234)",
      "lines": [
       {
@@ -14622,7 +14388,6 @@
     {
      "dex": 235,
      "name": "Smeargle",
-     "form": null,
      "heading": "### Smeargle (#235)",
      "lines": [
       {
@@ -14658,7 +14423,6 @@
     {
      "dex": 236,
      "name": "Tyrogue",
-     "form": null,
      "heading": "### Tyrogue (#236)",
      "lines": [
       {
@@ -14674,7 +14438,6 @@
     {
      "dex": 237,
      "name": "Hitmontop",
-     "form": null,
      "heading": "### Hitmontop (#237)",
      "lines": [
       {
@@ -14718,7 +14481,6 @@
     {
      "dex": 238,
      "name": "Smoochum",
-     "form": null,
      "heading": "### Smoochum (#238)",
      "lines": [
       {
@@ -14735,7 +14497,6 @@
     {
      "dex": 239,
      "name": "Elekid",
-     "form": null,
      "heading": "### Elekid (#239)",
      "lines": [
       {
@@ -14776,7 +14537,6 @@
     {
      "dex": 240,
      "name": "Magby",
-     "form": null,
      "heading": "### Magby (#240)",
      "lines": [
       {
@@ -14839,7 +14599,6 @@
     {
      "dex": 241,
      "name": "Miltank",
-     "form": null,
      "heading": "### Miltank (#241)",
      "lines": [
       {
@@ -14896,7 +14655,6 @@
     {
      "dex": 242,
      "name": "Blissey",
-     "form": null,
      "heading": "### Blissey (#242)",
      "lines": [
       {
@@ -14954,7 +14712,6 @@
     {
      "dex": 243,
      "name": "Raikou",
-     "form": null,
      "heading": "### Raikou (#243)",
      "lines": [
       {
@@ -14990,7 +14747,6 @@
     {
      "dex": 244,
      "name": "Entei",
-     "form": null,
      "heading": "### Entei (#244)",
      "lines": [
       {
@@ -15039,7 +14795,6 @@
     {
      "dex": 245,
      "name": "Suicune",
-     "form": null,
      "heading": "### Suicune (#245)",
      "lines": [
       {
@@ -15074,7 +14829,6 @@
     {
      "dex": 246,
      "name": "Larvitar",
-     "form": null,
      "heading": "### Larvitar (#246)",
      "lines": [
       {
@@ -15140,7 +14894,6 @@
     {
      "dex": 247,
      "name": "Pupitar",
-     "form": null,
      "heading": "### Pupitar (#247)",
      "lines": [
       {
@@ -15206,7 +14959,6 @@
     {
      "dex": 248,
      "name": "Tyranitar",
-     "form": null,
      "heading": "### Tyranitar (#248)",
      "lines": [
       {
@@ -15294,7 +15046,6 @@
     {
      "dex": 249,
      "name": "Lugia",
-     "form": null,
      "heading": "### Lugia (#249)",
      "lines": [
       {
@@ -15371,7 +15122,6 @@
     {
      "dex": 250,
      "name": "Ho-Oh",
-     "form": null,
      "heading": "### Ho-Oh (#250)",
      "lines": [
       {
@@ -15437,7 +15187,6 @@
     {
      "dex": 251,
      "name": "Celebi",
-     "form": null,
      "heading": "### Celebi (#251)",
      "lines": [
       {
@@ -15492,7 +15241,6 @@
     {
      "dex": 252,
      "name": "Treecko",
-     "form": null,
      "heading": "### Treecko (#252)",
      "lines": [
       {
@@ -15530,7 +15278,6 @@
     {
      "dex": 253,
      "name": "Grovyle",
-     "form": null,
      "heading": "### Grovyle (#253)",
      "lines": [
       {
@@ -15573,7 +15320,6 @@
     {
      "dex": 254,
      "name": "Sceptile",
-     "form": null,
      "heading": "### Sceptile (#254)",
      "lines": [
       {
@@ -15616,7 +15362,6 @@
     {
      "dex": 255,
      "name": "Torchic",
-     "form": null,
      "heading": "### Torchic (#255)",
      "lines": [
       {
@@ -15656,7 +15401,6 @@
     {
      "dex": 256,
      "name": "Combusken",
-     "form": null,
      "heading": "### Combusken (#256)",
      "lines": [
       {
@@ -15701,7 +15445,6 @@
     {
      "dex": 257,
      "name": "Blaziken",
-     "form": null,
      "heading": "### Blaziken (#257)",
      "lines": [
       {
@@ -15763,7 +15506,6 @@
     {
      "dex": 258,
      "name": "Mudkip",
-     "form": null,
      "heading": "### Mudkip (#258)",
      "lines": [
       {
@@ -15828,7 +15570,6 @@
     {
      "dex": 259,
      "name": "Marshtomp",
-     "form": null,
      "heading": "### Marshtomp (#259)",
      "lines": [
       {
@@ -15898,7 +15639,6 @@
     {
      "dex": 260,
      "name": "Swampert",
-     "form": null,
      "heading": "### Swampert (#260)",
      "lines": [
       {
@@ -15998,7 +15738,6 @@
     {
      "dex": 261,
      "name": "Poochyena",
-     "form": null,
      "heading": "### Poochyena (#261)",
      "lines": [
       {
@@ -16057,7 +15796,6 @@
     {
      "dex": 262,
      "name": "Mightyena",
-     "form": null,
      "heading": "### Mightyena (#262)",
      "lines": [
       {
@@ -16127,7 +15865,6 @@
     {
      "dex": 263,
      "name": "Zigzagoon",
-     "form": null,
      "heading": "### Zigzagoon (#263)",
      "lines": [
       {
@@ -16196,7 +15933,6 @@
     {
      "dex": 264,
      "name": "Linoone",
-     "form": null,
      "heading": "### Linoone (#264)",
      "lines": [
       {
@@ -16270,7 +16006,6 @@
     {
      "dex": 265,
      "name": "Wurmple",
-     "form": null,
      "heading": "### Wurmple (#265)",
      "lines": [
       {
@@ -16306,7 +16041,6 @@
     {
      "dex": 266,
      "name": "Silcoon",
-     "form": null,
      "heading": "### Silcoon (#266)",
      "lines": [
       {
@@ -16347,7 +16081,6 @@
     {
      "dex": 267,
      "name": "Beautifly",
-     "form": null,
      "heading": "### Beautifly (#267)",
      "lines": [
       {
@@ -16390,7 +16123,6 @@
     {
      "dex": 268,
      "name": "Cascoon",
-     "form": null,
      "heading": "### Cascoon (#268)",
      "lines": [
       {
@@ -16431,7 +16163,6 @@
     {
      "dex": 269,
      "name": "Dustox",
-     "form": null,
      "heading": "### Dustox (#269)",
      "lines": [
       {
@@ -16474,7 +16205,6 @@
     {
      "dex": 270,
      "name": "Lotad",
-     "form": null,
      "heading": "### Lotad (#270)",
      "lines": [
       {
@@ -16538,7 +16268,6 @@
     {
      "dex": 271,
      "name": "Lombre",
-     "form": null,
      "heading": "### Lombre (#271)",
      "lines": [
       {
@@ -16607,7 +16336,6 @@
     {
      "dex": 272,
      "name": "Ludicolo",
-     "form": null,
      "heading": "### Ludicolo (#272)",
      "lines": [
       {
@@ -16693,7 +16421,6 @@
     {
      "dex": 273,
      "name": "Seedot",
-     "form": null,
      "heading": "### Seedot (#273)",
      "lines": [
       {
@@ -16733,7 +16460,6 @@
     {
      "dex": 274,
      "name": "Nuzleaf",
-     "form": null,
      "heading": "### Nuzleaf (#274)",
      "lines": [
       {
@@ -16778,7 +16504,6 @@
     {
      "dex": 275,
      "name": "Shiftry",
-     "form": null,
      "heading": "### Shiftry (#275)",
      "lines": [
       {
@@ -16823,7 +16548,6 @@
     {
      "dex": 276,
      "name": "Taillow",
-     "form": null,
      "heading": "### Taillow (#276)",
      "lines": [
       {
@@ -16864,7 +16588,6 @@
     {
      "dex": 277,
      "name": "Swellow",
-     "form": null,
      "heading": "### Swellow (#277)",
      "lines": [
       {
@@ -16940,7 +16663,6 @@
     {
      "dex": 278,
      "name": "Wingull",
-     "form": null,
      "heading": "### Wingull (#278)",
      "lines": [
       {
@@ -16973,7 +16695,6 @@
     {
      "dex": 279,
      "name": "Pelipper",
-     "form": null,
      "heading": "### Pelipper (#279)",
      "lines": [
       {
@@ -17025,7 +16746,6 @@
     {
      "dex": 280,
      "name": "Ralts",
-     "form": null,
      "heading": "### Ralts (#280)",
      "lines": [
       {
@@ -17118,7 +16838,6 @@
     {
      "dex": 281,
      "name": "Kirlia",
-     "form": null,
      "heading": "### Kirlia (#281)",
      "lines": [
       {
@@ -17221,7 +16940,6 @@
     {
      "dex": 282,
      "name": "Gardevoir",
-     "form": null,
      "heading": "### Gardevoir (#282)",
      "lines": [
       {
@@ -17253,7 +16971,6 @@
     {
      "dex": 283,
      "name": "Surskit",
-     "form": null,
      "heading": "### Surskit (#283)",
      "lines": [
       {
@@ -17290,7 +17007,6 @@
     {
      "dex": 284,
      "name": "Masquerain",
-     "form": null,
      "heading": "### Masquerain (#284)",
      "lines": [
       {
@@ -17332,7 +17048,6 @@
     {
      "dex": 285,
      "name": "Shroomish",
-     "form": null,
      "heading": "### Shroomish (#285)",
      "lines": [
       {
@@ -17359,7 +17074,6 @@
     {
      "dex": 286,
      "name": "Breloom",
-     "form": null,
      "heading": "### Breloom (#286)",
      "lines": [
       {
@@ -17391,7 +17105,6 @@
     {
      "dex": 287,
      "name": "Slakoth",
-     "form": null,
      "heading": "### Slakoth (#287)",
      "lines": [
       {
@@ -17427,7 +17140,6 @@
     {
      "dex": 288,
      "name": "Vigoroth",
-     "form": null,
      "heading": "### Vigoroth (#288)",
      "lines": [
       {
@@ -17468,7 +17180,6 @@
     {
      "dex": 289,
      "name": "Slaking",
-     "form": null,
      "heading": "### Slaking (#289)",
      "lines": [
       {
@@ -17526,7 +17237,6 @@
     {
      "dex": 290,
      "name": "Nincada",
-     "form": null,
      "heading": "### Nincada (#290)",
      "lines": [
       {
@@ -17553,7 +17263,6 @@
     {
      "dex": 291,
      "name": "Ninjask",
-     "form": null,
      "heading": "### Ninjask (#291)",
      "lines": [
       {
@@ -17585,7 +17294,6 @@
     {
      "dex": 292,
      "name": "Shedinja",
-     "form": null,
      "heading": "### Shedinja (#292)",
      "lines": [
       {
@@ -17612,7 +17320,6 @@
     {
      "dex": 293,
      "name": "Whismur",
-     "form": null,
      "heading": "### Whismur (#293)",
      "lines": [
       {
@@ -17664,7 +17371,6 @@
     {
      "dex": 294,
      "name": "Loudred",
-     "form": null,
      "heading": "### Loudred (#294)",
      "lines": [
       {
@@ -17721,7 +17427,6 @@
     {
      "dex": 295,
      "name": "Exploud",
-     "form": null,
      "heading": "### Exploud (#295)",
      "lines": [
       {
@@ -17795,7 +17500,6 @@
     {
      "dex": 296,
      "name": "Makuhita",
-     "form": null,
      "heading": "### Makuhita (#296)",
      "lines": [
       {
@@ -17834,7 +17538,6 @@
     {
      "dex": 297,
      "name": "Hariyama",
-     "form": null,
      "heading": "### Hariyama (#297)",
      "lines": [
       {
@@ -17895,7 +17598,6 @@
     {
      "dex": 298,
      "name": "Azurill",
-     "form": null,
      "heading": "### Azurill (#298)",
      "lines": [
       {
@@ -17973,7 +17675,6 @@
     {
      "dex": 299,
      "name": "Nosepass",
-     "form": null,
      "heading": "### Nosepass (#299)",
      "lines": [
       {
@@ -18020,7 +17721,6 @@
     {
      "dex": 300,
      "name": "Skitty",
-     "form": null,
      "heading": "### Skitty (#300)",
      "lines": [
       {
@@ -18070,7 +17770,6 @@
     {
      "dex": 301,
      "name": "Delcatty",
-     "form": null,
      "heading": "### Delcatty (#301)",
      "lines": [
       {
@@ -18130,7 +17829,6 @@
     {
      "dex": 302,
      "name": "Sableye",
-     "form": null,
      "heading": "### Sableye (#302)",
      "lines": [
       {
@@ -18193,7 +17891,6 @@
     {
      "dex": 303,
      "name": "Mawile",
-     "form": null,
      "heading": "### Mawile (#303)",
      "lines": [
       {
@@ -18245,7 +17942,6 @@
     {
      "dex": 304,
      "name": "Aron",
-     "form": null,
      "heading": "### Aron (#304)",
      "lines": [
       {
@@ -18282,7 +17978,6 @@
     {
      "dex": 305,
      "name": "Lairon",
-     "form": null,
      "heading": "### Lairon (#305)",
      "lines": [
       {
@@ -18324,7 +18019,6 @@
     {
      "dex": 306,
      "name": "Aggron",
-     "form": null,
      "heading": "### Aggron (#306)",
      "lines": [
       {
@@ -18383,7 +18077,6 @@
     {
      "dex": 307,
      "name": "Meditite",
-     "form": null,
      "heading": "### Meditite (#307)",
      "lines": [
       {
@@ -18420,7 +18113,6 @@
     {
      "dex": 308,
      "name": "Medicham",
-     "form": null,
      "heading": "### Medicham (#308)",
      "lines": [
       {
@@ -18462,7 +18154,6 @@
     {
      "dex": 309,
      "name": "Electrike",
-     "form": null,
      "heading": "### Electrike (#309)",
      "lines": [
       {
@@ -18504,7 +18195,6 @@
     {
      "dex": 310,
      "name": "Manectric",
-     "form": null,
      "heading": "### Manectric (#310)",
      "lines": [
       {
@@ -18568,7 +18258,6 @@
     {
      "dex": 311,
      "name": "Plusle",
-     "form": null,
      "heading": "### Plusle (#311)",
      "lines": [
       {
@@ -18606,7 +18295,6 @@
     {
      "dex": 312,
      "name": "Minun",
-     "form": null,
      "heading": "### Minun (#312)",
      "lines": [
       {
@@ -18644,7 +18332,6 @@
     {
      "dex": 313,
      "name": "Volbeat",
-     "form": null,
      "heading": "### Volbeat (#313)",
      "lines": [
       {
@@ -18671,7 +18358,6 @@
     {
      "dex": 314,
      "name": "Illumise",
-     "form": null,
      "heading": "### Illumise (#314)",
      "lines": [
       {
@@ -18698,7 +18384,6 @@
     {
      "dex": 315,
      "name": "Roselia",
-     "form": null,
      "heading": "### Roselia (#315)",
      "lines": [
       {
@@ -18720,7 +18405,6 @@
     {
      "dex": 316,
      "name": "Gulpin",
-     "form": null,
      "heading": "### Gulpin (#316)",
      "lines": [
       {
@@ -18785,7 +18469,6 @@
     {
      "dex": 317,
      "name": "Swalot",
-     "form": null,
      "heading": "### Swalot (#317)",
      "lines": [
       {
@@ -18855,7 +18538,6 @@
     {
      "dex": 318,
      "name": "Carvanha",
-     "form": null,
      "heading": "### Carvanha (#318)",
      "lines": [
       {
@@ -18905,7 +18587,6 @@
     {
      "dex": 319,
      "name": "Sharpedo",
-     "form": null,
      "heading": "### Sharpedo (#319)",
      "lines": [
       {
@@ -18974,7 +18655,6 @@
     {
      "dex": 320,
      "name": "Wailmer",
-     "form": null,
      "heading": "### Wailmer (#320)",
      "lines": [
       {
@@ -19027,7 +18707,6 @@
     {
      "dex": 321,
      "name": "Wailord",
-     "form": null,
      "heading": "### Wailord (#321)",
      "lines": [
       {
@@ -19085,7 +18764,6 @@
     {
      "dex": 322,
      "name": "Numel",
-     "form": null,
      "heading": "### Numel (#322)",
      "lines": [
       {
@@ -19136,7 +18814,6 @@
     {
      "dex": 323,
      "name": "Camerupt",
-     "form": null,
      "heading": "### Camerupt (#323)",
      "lines": [
       {
@@ -19203,7 +18880,6 @@
     {
      "dex": 324,
      "name": "Torkoal",
-     "form": null,
      "heading": "### Torkoal (#324)",
      "lines": [
       {
@@ -19266,7 +18942,6 @@
     {
      "dex": 325,
      "name": "Spoink",
-     "form": null,
      "heading": "### Spoink (#325)",
      "lines": [
       {
@@ -19321,7 +18996,6 @@
     {
      "dex": 326,
      "name": "Grumpig",
-     "form": null,
      "heading": "### Grumpig (#326)",
      "lines": [
       {
@@ -19381,7 +19055,6 @@
     {
      "dex": 327,
      "name": "Spinda",
-     "form": null,
      "heading": "### Spinda (#327)",
      "lines": [
       {
@@ -19421,7 +19094,6 @@
     {
      "dex": 328,
      "name": "Trapinch",
-     "form": null,
      "heading": "### Trapinch (#328)",
      "lines": [
       {
@@ -19469,7 +19141,6 @@
     {
      "dex": 329,
      "name": "Vibrava",
-     "form": null,
      "heading": "### Vibrava (#329)",
      "lines": [
       {
@@ -19513,7 +19184,6 @@
     {
      "dex": 330,
      "name": "Flygon",
-     "form": null,
      "heading": "### Flygon (#330)",
      "lines": [
       {
@@ -19587,7 +19257,6 @@
     {
      "dex": 331,
      "name": "Cacnea",
-     "form": null,
      "heading": "### Cacnea (#331)",
      "lines": [
       {
@@ -19637,7 +19306,6 @@
     {
      "dex": 332,
      "name": "Cacturne",
-     "form": null,
      "heading": "### Cacturne (#332)",
      "lines": [
       {
@@ -19681,7 +19349,6 @@
     {
      "dex": 333,
      "name": "Swablu",
-     "form": null,
      "heading": "### Swablu (#333)",
      "lines": [
       {
@@ -19721,7 +19388,6 @@
     {
      "dex": 334,
      "name": "Altaria",
-     "form": null,
      "heading": "### Altaria (#334)",
      "lines": [
       {
@@ -19796,7 +19462,6 @@
     {
      "dex": 335,
      "name": "Zangoose",
-     "form": null,
      "heading": "### Zangoose (#335)",
      "lines": [
       {
@@ -19836,7 +19501,6 @@
     {
      "dex": 336,
      "name": "Seviper",
-     "form": null,
      "heading": "### Seviper (#336)",
      "lines": [
       {
@@ -19886,7 +19550,6 @@
     {
      "dex": 337,
      "name": "Lunatone",
-     "form": null,
      "heading": "### Lunatone (#337)",
      "lines": [
       {
@@ -19913,7 +19576,6 @@
     {
      "dex": 338,
      "name": "Solrock",
-     "form": null,
      "heading": "### Solrock (#338)",
      "lines": [
       {
@@ -19940,7 +19602,6 @@
     {
      "dex": 339,
      "name": "Barboach",
-     "form": null,
      "heading": "### Barboach (#339)",
      "lines": [
       {
@@ -19992,7 +19653,6 @@
     {
      "dex": 340,
      "name": "Whiscash",
-     "form": null,
      "heading": "### Whiscash (#340)",
      "lines": [
       {
@@ -20066,7 +19726,6 @@
     {
      "dex": 341,
      "name": "Corphish",
-     "form": null,
      "heading": "### Corphish (#341)",
      "lines": [
       {
@@ -20131,7 +19790,6 @@
     {
      "dex": 342,
      "name": "Crawdaunt",
-     "form": null,
      "heading": "### Crawdaunt (#342)",
      "lines": [
       {
@@ -20231,7 +19889,6 @@
     {
      "dex": 343,
      "name": "Baltoy",
-     "form": null,
      "heading": "### Baltoy (#343)",
      "lines": [
       {
@@ -20299,7 +19956,6 @@
     {
      "dex": 344,
      "name": "Claydol",
-     "form": null,
      "heading": "### Claydol (#344)",
      "lines": [
       {
@@ -20377,7 +20033,6 @@
     {
      "dex": 345,
      "name": "Lileep",
-     "form": null,
      "heading": "### Lileep (#345)",
      "lines": [
       {
@@ -20393,7 +20048,6 @@
     {
      "dex": 346,
      "name": "Cradily",
-     "form": null,
      "heading": "### Cradily (#346)",
      "lines": [
       {
@@ -20409,7 +20063,6 @@
     {
      "dex": 347,
      "name": "Anorith",
-     "form": null,
      "heading": "### Anorith (#347)",
      "lines": [
       {
@@ -20425,7 +20078,6 @@
     {
      "dex": 348,
      "name": "Armaldo",
-     "form": null,
      "heading": "### Armaldo (#348)",
      "lines": [
       {
@@ -20471,7 +20123,6 @@
     {
      "dex": 349,
      "name": "Feebas",
-     "form": null,
      "heading": "### Feebas (#349)",
      "lines": [
       {
@@ -20498,7 +20149,6 @@
     {
      "dex": 350,
      "name": "Milotic",
-     "form": null,
      "heading": "### Milotic (#350)",
      "lines": [
       {
@@ -20547,7 +20197,6 @@
     {
      "dex": 351,
      "name": "Castform",
-     "form": null,
      "heading": "### Castform (#351)",
      "lines": [
       {
@@ -20586,7 +20235,6 @@
     {
      "dex": 352,
      "name": "Kecleon",
-     "form": null,
      "heading": "### Kecleon (#352)",
      "lines": [
       {
@@ -20623,7 +20271,6 @@
     {
      "dex": 353,
      "name": "Shuppet",
-     "form": null,
      "heading": "### Shuppet (#353)",
      "lines": [
       {
@@ -20673,7 +20320,6 @@
     {
      "dex": 354,
      "name": "Banette",
-     "form": null,
      "heading": "### Banette (#354)",
      "lines": [
       {
@@ -20717,7 +20363,6 @@
     {
      "dex": 355,
      "name": "Duskull",
-     "form": null,
      "heading": "### Duskull (#355)",
      "lines": [
       {
@@ -20768,7 +20413,6 @@
     {
      "dex": 356,
      "name": "Dusclops",
-     "form": null,
      "heading": "### Dusclops (#356)",
      "lines": [
       {
@@ -20812,7 +20456,6 @@
     {
      "dex": 357,
      "name": "Tropius",
-     "form": null,
      "heading": "### Tropius (#357)",
      "lines": [
       {
@@ -20878,7 +20521,6 @@
     {
      "dex": 358,
      "name": "Chimecho",
-     "form": null,
      "heading": "### Chimecho (#358)",
      "lines": [
       {
@@ -20926,7 +20568,6 @@
     {
      "dex": 359,
      "name": "Absol",
-     "form": null,
      "heading": "### Absol (#359)",
      "lines": [
       {
@@ -20970,7 +20611,6 @@
     {
      "dex": 360,
      "name": "Wynaut",
-     "form": null,
      "heading": "### Wynaut (#360)",
      "lines": [
       {
@@ -21006,7 +20646,6 @@
     {
      "dex": 361,
      "name": "Snorunt",
-     "form": null,
      "heading": "### Snorunt (#361)",
      "lines": [
       {
@@ -21097,7 +20736,6 @@
     {
      "dex": 362,
      "name": "Glalie",
-     "form": null,
      "heading": "### Glalie (#362)",
      "lines": [
       {
@@ -21163,7 +20801,6 @@
     {
      "dex": 363,
      "name": "Spheal",
-     "form": null,
      "heading": "### Spheal (#363)",
      "lines": [
       {
@@ -21190,7 +20827,6 @@
     {
      "dex": 364,
      "name": "Sealeo",
-     "form": null,
      "heading": "### Sealeo (#364)",
      "lines": [
       {
@@ -21222,7 +20858,6 @@
     {
      "dex": 365,
      "name": "Walrein",
-     "form": null,
      "heading": "### Walrein (#365)",
      "lines": [
       {
@@ -21284,7 +20919,6 @@
     {
      "dex": 366,
      "name": "Clamperl",
-     "form": null,
      "heading": "### Clamperl (#366)",
      "lines": [
       {
@@ -21358,7 +20992,6 @@
     {
      "dex": 367,
      "name": "Huntail",
-     "form": null,
      "heading": "### Huntail (#367)",
      "lines": [
       {
@@ -21437,7 +21070,6 @@
     {
      "dex": 368,
      "name": "Gorebyss",
-     "form": null,
      "heading": "### Gorebyss (#368)",
      "lines": [
       {
@@ -21516,7 +21148,6 @@
     {
      "dex": 369,
      "name": "Relicanth",
-     "form": null,
      "heading": "### Relicanth (#369)",
      "lines": [
       {
@@ -21560,7 +21191,6 @@
     {
      "dex": 370,
      "name": "Luvdisc",
-     "form": null,
      "heading": "### Luvdisc (#370)",
      "lines": [
       {
@@ -21577,7 +21207,6 @@
     {
      "dex": 371,
      "name": "Bagon",
-     "form": null,
      "heading": "### Bagon (#371)",
      "lines": [
       {
@@ -21614,7 +21243,6 @@
     {
      "dex": 372,
      "name": "Shelgon",
-     "form": null,
      "heading": "### Shelgon (#372)",
      "lines": [
       {
@@ -21655,7 +21283,6 @@
     {
      "dex": 373,
      "name": "Salamence",
-     "form": null,
      "heading": "### Salamence (#373)",
      "lines": [
       {
@@ -21707,7 +21334,6 @@
     {
      "dex": 374,
      "name": "Beldum",
-     "form": null,
      "heading": "### Beldum (#374)",
      "lines": [
       {
@@ -21745,7 +21371,6 @@
     {
      "dex": 375,
      "name": "Metang",
-     "form": null,
      "heading": "### Metang (#375)",
      "lines": [
       {
@@ -21788,7 +21413,6 @@
     {
      "dex": 376,
      "name": "Metagross",
-     "form": null,
      "heading": "### Metagross (#376)",
      "lines": [
       {
@@ -21861,7 +21485,6 @@
     {
      "dex": 377,
      "name": "Regirock",
-     "form": null,
      "heading": "### Regirock (#377)",
      "lines": [
       {
@@ -21922,7 +21545,6 @@
     {
      "dex": 378,
      "name": "Regice",
-     "form": null,
      "heading": "### Regice (#378)",
      "lines": [
       {
@@ -21997,7 +21619,6 @@
     {
      "dex": 379,
      "name": "Registeel",
-     "form": null,
      "heading": "### Registeel (#379)",
      "lines": [
       {
@@ -22047,7 +21668,6 @@
     {
      "dex": 380,
      "name": "Latias",
-     "form": null,
      "heading": "### Latias (#380)",
      "lines": [
       {
@@ -22127,7 +21747,6 @@
     {
      "dex": 381,
      "name": "Latios",
-     "form": null,
      "heading": "### Latios (#381)",
      "lines": [
       {
@@ -22207,7 +21826,6 @@
     {
      "dex": 382,
      "name": "Kyogre",
-     "form": null,
      "heading": "### Kyogre (#382)",
      "lines": [
       {
@@ -22265,7 +21883,6 @@
     {
      "dex": 383,
      "name": "Groudon",
-     "form": null,
      "heading": "### Groudon (#383)",
      "lines": [
       {
@@ -22319,7 +21936,6 @@
     {
      "dex": 384,
      "name": "Rayquaza",
-     "form": null,
      "heading": "### Rayquaza (#384)",
      "lines": [
       {
@@ -22411,7 +22027,6 @@
     {
      "dex": 385,
      "name": "Jirachi",
-     "form": null,
      "heading": "### Jirachi (#385)",
      "lines": [
       {
@@ -22446,7 +22061,6 @@
     {
      "dex": 386,
      "name": "Deoxys",
-     "form": null,
      "heading": "### Deoxys (#386)",
      "lines": [
       {
@@ -22490,7 +22104,6 @@
     {
      "dex": 387,
      "name": "Turtwig",
-     "form": null,
      "heading": "### Turtwig (#387)",
      "lines": [
       {
@@ -22527,7 +22140,6 @@
     {
      "dex": 388,
      "name": "Grotle",
-     "form": null,
      "heading": "### Grotle (#388)",
      "lines": [
       {
@@ -22569,7 +22181,6 @@
     {
      "dex": 389,
      "name": "Torterra",
-     "form": null,
      "heading": "### Torterra (#389)",
      "lines": [
       {
@@ -22628,7 +22239,6 @@
     {
      "dex": 390,
      "name": "Chimchar",
-     "form": null,
      "heading": "### Chimchar (#390)",
      "lines": [
       {
@@ -22680,7 +22290,6 @@
     {
      "dex": 391,
      "name": "Monferno",
-     "form": null,
      "heading": "### Monferno (#391)",
      "lines": [
       {
@@ -22737,7 +22346,6 @@
     {
      "dex": 392,
      "name": "Infernape",
-     "form": null,
      "heading": "### Infernape (#392)",
      "lines": [
       {
@@ -22811,7 +22419,6 @@
     {
      "dex": 393,
      "name": "Piplup",
-     "form": null,
      "heading": "### Piplup (#393)",
      "lines": [
       {
@@ -22869,7 +22476,6 @@
     {
      "dex": 394,
      "name": "Prinplup",
-     "form": null,
      "heading": "### Prinplup (#394)",
      "lines": [
       {
@@ -22932,7 +22538,6 @@
     {
      "dex": 395,
      "name": "Empoleon",
-     "form": null,
      "heading": "### Empoleon (#395)",
      "lines": [
       {
@@ -23025,7 +22630,6 @@
     {
      "dex": 396,
      "name": "Starly",
-     "form": null,
      "heading": "### Starly (#396)",
      "lines": [
       {
@@ -23069,7 +22673,6 @@
     {
      "dex": 397,
      "name": "Staravia",
-     "form": null,
      "heading": "### Staravia (#397)",
      "lines": [
       {
@@ -23118,7 +22721,6 @@
     {
      "dex": 398,
      "name": "Staraptor",
-     "form": null,
      "heading": "### Staraptor (#398)",
      "lines": [
       {
@@ -23197,7 +22799,6 @@
     {
      "dex": 399,
      "name": "Bidoof",
-     "form": null,
      "heading": "### Bidoof (#399)",
      "lines": [
       {
@@ -23263,7 +22864,6 @@
     {
      "dex": 400,
      "name": "Bibarel",
-     "form": null,
      "heading": "### Bibarel (#400)",
      "lines": [
       {
@@ -23334,7 +22934,6 @@
     {
      "dex": 401,
      "name": "Kricketot",
-     "form": null,
      "heading": "### Kricketot (#401)",
      "lines": [
       {
@@ -23376,7 +22975,6 @@
     {
      "dex": 402,
      "name": "Kricketune",
-     "form": null,
      "heading": "### Kricketune (#402)",
      "lines": [
       {
@@ -23423,7 +23021,6 @@
     {
      "dex": 403,
      "name": "Shinx",
-     "form": null,
      "heading": "### Shinx (#403)",
      "lines": [
       {
@@ -23462,7 +23059,6 @@
     {
      "dex": 404,
      "name": "Luxio",
-     "form": null,
      "heading": "### Luxio (#404)",
      "lines": [
       {
@@ -23506,7 +23102,6 @@
     {
      "dex": 405,
      "name": "Luxray",
-     "form": null,
      "heading": "### Luxray (#405)",
      "lines": [
       {
@@ -23567,7 +23162,6 @@
     {
      "dex": 406,
      "name": "Budew",
-     "form": null,
      "heading": "### Budew (#406)",
      "lines": [
       {
@@ -23600,7 +23194,6 @@
     {
      "dex": 407,
      "name": "Roserade",
-     "form": null,
      "heading": "### Roserade (#407)",
      "lines": [
       {
@@ -23622,7 +23215,6 @@
     {
      "dex": 408,
      "name": "Cranidos",
-     "form": null,
      "heading": "### Cranidos (#408)",
      "lines": [
       {
@@ -23638,7 +23230,6 @@
     {
      "dex": 409,
      "name": "Rampardos",
-     "form": null,
      "heading": "### Rampardos (#409)",
      "lines": [
       {
@@ -23671,7 +23262,6 @@
     {
      "dex": 410,
      "name": "Shieldon",
-     "form": null,
      "heading": "### Shieldon (#410)",
      "lines": [
       {
@@ -23687,7 +23277,6 @@
     {
      "dex": 411,
      "name": "Bastiodon",
-     "form": null,
      "heading": "### Bastiodon (#411)",
      "lines": [
       {
@@ -23720,7 +23309,6 @@
     {
      "dex": 412,
      "name": "Burmy",
-     "form": null,
      "heading": "### Burmy (#412)",
      "lines": [
       {
@@ -23773,7 +23361,6 @@
     {
      "dex": 413,
      "name": "Wormadam",
-     "form": null,
      "heading": "### Wormadam (#413)",
      "lines": [
       {
@@ -23836,7 +23423,6 @@
     {
      "dex": 414,
      "name": "Mothim",
-     "form": null,
      "heading": "### Mothim (#414)",
      "lines": [
       {
@@ -23899,7 +23485,6 @@
     {
      "dex": 415,
      "name": "Combee",
-     "form": null,
      "heading": "### Combee (#415)",
      "lines": [
       {
@@ -23947,7 +23532,6 @@
     {
      "dex": 416,
      "name": "Vespiquen",
-     "form": null,
      "heading": "### Vespiquen (#416)",
      "lines": [
       {
@@ -24000,7 +23584,6 @@
     {
      "dex": 417,
      "name": "Pachirisu",
-     "form": null,
      "heading": "### Pachirisu (#417)",
      "lines": [
       {
@@ -24039,7 +23622,6 @@
     {
      "dex": 418,
      "name": "Buizel",
-     "form": null,
      "heading": "### Buizel (#418)",
      "lines": [
       {
@@ -24114,7 +23696,6 @@
     {
      "dex": 419,
      "name": "Floatzel",
-     "form": null,
      "heading": "### Floatzel (#419)",
      "lines": [
       {
@@ -24194,7 +23775,6 @@
     {
      "dex": 420,
      "name": "Cherubi",
-     "form": null,
      "heading": "### Cherubi (#420)",
      "lines": [
       {
@@ -24221,7 +23801,6 @@
     {
      "dex": 421,
      "name": "Cherrim",
-     "form": null,
      "heading": "### Cherrim (#421)",
      "lines": [
       {
@@ -24248,7 +23827,6 @@
     {
      "dex": 422,
      "name": "Shellos",
-     "form": null,
      "heading": "### Shellos (#422)",
      "lines": [
       {
@@ -24271,7 +23849,6 @@
     {
      "dex": 423,
      "name": "Gastrodon",
-     "form": null,
      "heading": "### Gastrodon (#423)",
      "lines": [
       {
@@ -24316,7 +23893,6 @@
     {
      "dex": 424,
      "name": "Ambipom",
-     "form": null,
      "heading": "### Ambipom (#424)",
      "lines": [
       {
@@ -24359,7 +23935,6 @@
     {
      "dex": 425,
      "name": "Drifloon",
-     "form": null,
      "heading": "### Drifloon (#425)",
      "lines": [
       {
@@ -24415,7 +23990,6 @@
     {
      "dex": 426,
      "name": "Drifblim",
-     "form": null,
      "heading": "### Drifblim (#426)",
      "lines": [
       {
@@ -24493,7 +24067,6 @@
     {
      "dex": 427,
      "name": "Buneary",
-     "form": null,
      "heading": "### Buneary (#427)",
      "lines": [
       {
@@ -24539,7 +24112,6 @@
     {
      "dex": 428,
      "name": "Lopunny",
-     "form": null,
      "heading": "### Lopunny (#428)",
      "lines": [
       {
@@ -24590,7 +24162,6 @@
     {
      "dex": 429,
      "name": "Mismagius",
-     "form": null,
      "heading": "### Mismagius (#429)",
      "lines": [
       {
@@ -24656,7 +24227,6 @@
     {
      "dex": 430,
      "name": "Honchkrow",
-     "form": null,
      "heading": "### Honchkrow (#430)",
      "lines": [
       {
@@ -24736,7 +24306,6 @@
     {
      "dex": 431,
      "name": "Glameow",
-     "form": null,
      "heading": "### Glameow (#431)",
      "lines": [
       {
@@ -24774,7 +24343,6 @@
     {
      "dex": 432,
      "name": "Purugly",
-     "form": null,
      "heading": "### Purugly (#432)",
      "lines": [
       {
@@ -24817,7 +24385,6 @@
     {
      "dex": 433,
      "name": "Chingling",
-     "form": null,
      "heading": "### Chingling (#433)",
      "lines": [
       {
@@ -24860,7 +24427,6 @@
     {
      "dex": 434,
      "name": "Stunky",
-     "form": null,
      "heading": "### Stunky (#434)",
      "lines": [
       {
@@ -24918,7 +24484,6 @@
     {
      "dex": 435,
      "name": "Skuntank",
-     "form": null,
      "heading": "### Skuntank (#435)",
      "lines": [
       {
@@ -24981,7 +24546,6 @@
     {
      "dex": 436,
      "name": "Bronzor",
-     "form": null,
      "heading": "### Bronzor (#436)",
      "lines": [
       {
@@ -25019,7 +24583,6 @@
     {
      "dex": 437,
      "name": "Bronzong",
-     "form": null,
      "heading": "### Bronzong (#437)",
      "lines": [
       {
@@ -25068,7 +24631,6 @@
     {
      "dex": 438,
      "name": "Bonsly",
-     "form": null,
      "heading": "### Bonsly (#438)",
      "lines": [
       {
@@ -25106,7 +24668,6 @@
     {
      "dex": 439,
      "name": "Mime Jr.",
-     "form": null,
      "heading": "### Mime Jr. (#439)",
      "lines": [
       {
@@ -25122,7 +24683,6 @@
     {
      "dex": 440,
      "name": "Happiny",
-     "form": null,
      "heading": "### Happiny (#440)",
      "lines": [
       {
@@ -25158,7 +24718,6 @@
     {
      "dex": 441,
      "name": "Chatot",
-     "form": null,
      "heading": "### Chatot (#441)",
      "lines": [
       {
@@ -25238,7 +24797,6 @@
     {
      "dex": 442,
      "name": "Spiritomb",
-     "form": null,
      "heading": "### Spiritomb (#442)",
      "lines": [
       {
@@ -25276,7 +24834,6 @@
     {
      "dex": 443,
      "name": "Gible",
-     "form": null,
      "heading": "### Gible (#443)",
      "lines": [
       {
@@ -25315,7 +24872,6 @@
     {
      "dex": 444,
      "name": "Gabite",
-     "form": null,
      "heading": "### Gabite (#444)",
      "lines": [
       {
@@ -25359,7 +24915,6 @@
     {
      "dex": 445,
      "name": "Garchomp",
-     "form": null,
      "heading": "### Garchomp (#445)",
      "lines": [
       {
@@ -25462,7 +25017,6 @@
     {
      "dex": 446,
      "name": "Munchlax",
-     "form": null,
      "heading": "### Munchlax (#446)",
      "lines": [
       {
@@ -25478,7 +25032,6 @@
     {
      "dex": 447,
      "name": "Riolu",
-     "form": null,
      "heading": "### Riolu (#447)",
      "lines": [
       {
@@ -25517,7 +25070,6 @@
     {
      "dex": 448,
      "name": "Lucario",
-     "form": null,
      "heading": "### Lucario (#448)",
      "lines": [
       {
@@ -25561,7 +25113,6 @@
     {
      "dex": 449,
      "name": "Hippopotas",
-     "form": null,
      "heading": "### Hippopotas (#449)",
      "lines": [
       {
@@ -25598,7 +25149,6 @@
     {
      "dex": 450,
      "name": "Hippowdon",
-     "form": null,
      "heading": "### Hippowdon (#450)",
      "lines": [
       {
@@ -25657,7 +25207,6 @@
     {
      "dex": 451,
      "name": "Skorupi",
-     "form": null,
      "heading": "### Skorupi (#451)",
      "lines": [
       {
@@ -25708,7 +25257,6 @@
     {
      "dex": 452,
      "name": "Drapion",
-     "form": null,
      "heading": "### Drapion (#452)",
      "lines": [
       {
@@ -25807,7 +25355,6 @@
     {
      "dex": 453,
      "name": "Croagunk",
-     "form": null,
      "heading": "### Croagunk (#453)",
      "lines": [
       {
@@ -25845,7 +25392,6 @@
     {
      "dex": 454,
      "name": "Toxicroak",
-     "form": null,
      "heading": "### Toxicroak (#454)",
      "lines": [
       {
@@ -25877,7 +25423,6 @@
     {
      "dex": 455,
      "name": "Carnivine",
-     "form": null,
      "heading": "### Carnivine (#455)",
      "lines": [
       {
@@ -25917,7 +25462,6 @@
     {
      "dex": 456,
      "name": "Finneon",
-     "form": null,
      "heading": "### Finneon (#456)",
      "lines": [
       {
@@ -25976,7 +25520,6 @@
     {
      "dex": 457,
      "name": "Lumineon",
-     "form": null,
      "heading": "### Lumineon (#457)",
      "lines": [
       {
@@ -26045,7 +25588,6 @@
     {
      "dex": 458,
      "name": "Mantyke",
-     "form": null,
      "heading": "### Mantyke (#458)",
      "lines": [
       {
@@ -26068,7 +25610,6 @@
     {
      "dex": 459,
      "name": "Snover",
-     "form": null,
      "heading": "### Snover (#459)",
      "lines": [
       {
@@ -26107,7 +25648,6 @@
     {
      "dex": 460,
      "name": "Abomasnow",
-     "form": null,
      "heading": "### Abomasnow (#460)",
      "lines": [
       {
@@ -26151,7 +25691,6 @@
     {
      "dex": 461,
      "name": "Weavile",
-     "form": null,
      "heading": "### Weavile (#461)",
      "lines": [
       {
@@ -26183,7 +25722,6 @@
     {
      "dex": 462,
      "name": "Magnezone",
-     "form": null,
      "heading": "### Magnezone (#462)",
      "lines": [
       {
@@ -26276,7 +25814,6 @@
     {
      "dex": 463,
      "name": "Lickilicky",
-     "form": null,
      "heading": "### Lickilicky (#463)",
      "lines": [
       {
@@ -26337,7 +25874,6 @@
     {
      "dex": 464,
      "name": "Rhyperior",
-     "form": null,
      "heading": "### Rhyperior (#464)",
      "lines": [
       {
@@ -26426,7 +25962,6 @@
     {
      "dex": 465,
      "name": "Tangrowth",
-     "form": null,
      "heading": "### Tangrowth (#465)",
      "lines": [
       {
@@ -26484,7 +26019,6 @@
     {
      "dex": 466,
      "name": "Electivire",
-     "form": null,
      "heading": "### Electivire (#466)",
      "lines": [
       {
@@ -26547,7 +26081,6 @@
     {
      "dex": 467,
      "name": "Magmortar",
-     "form": null,
      "heading": "### Magmortar (#467)",
      "lines": [
       {
@@ -26632,7 +26165,6 @@
     {
      "dex": 468,
      "name": "Togekiss",
-     "form": null,
      "heading": "### Togekiss (#468)",
      "lines": [
       {
@@ -26740,7 +26272,6 @@
     {
      "dex": 469,
      "name": "Yanmega",
-     "form": null,
      "heading": "### Yanmega (#469)",
      "lines": [
       {
@@ -26824,7 +26355,6 @@
     {
      "dex": 470,
      "name": "Leafeon",
-     "form": null,
      "heading": "### Leafeon (#470)",
      "lines": [
       {
@@ -26904,7 +26434,6 @@
     {
      "dex": 471,
      "name": "Glaceon",
-     "form": null,
      "heading": "### Glaceon (#471)",
      "lines": [
       {
@@ -26978,7 +26507,6 @@
     {
      "dex": 472,
      "name": "Gliscor",
-     "form": null,
      "heading": "### Gliscor (#472)",
      "lines": [
       {
@@ -27050,7 +26578,6 @@
     {
      "dex": 473,
      "name": "Mamoswine",
-     "form": null,
      "heading": "### Mamoswine (#473)",
      "lines": [
       {
@@ -27125,7 +26652,6 @@
     {
      "dex": 474,
      "name": "Porygon-Z",
-     "form": null,
      "heading": "### Porygon-Z (#474)",
      "lines": [
       {
@@ -27157,7 +26683,6 @@
     {
      "dex": 475,
      "name": "Gallade",
-     "form": null,
      "heading": "### Gallade (#475)",
      "lines": [
       {
@@ -27189,7 +26714,6 @@
     {
      "dex": 476,
      "name": "Probopass",
-     "form": null,
      "heading": "### Probopass (#476)",
      "lines": [
       {
@@ -27260,7 +26784,6 @@
     {
      "dex": 477,
      "name": "Dusknoir",
-     "form": null,
      "heading": "### Dusknoir (#477)",
      "lines": [
       {
@@ -27321,7 +26844,6 @@
     {
      "dex": 478,
      "name": "Froslass",
-     "form": null,
      "heading": "### Froslass (#478)",
      "lines": [
       {
@@ -27446,7 +26968,6 @@
     {
      "dex": 479,
      "name": "Rotom",
-     "form": null,
      "heading": "### Rotom (#479)",
      "lines": [
       {
@@ -27502,7 +27023,6 @@
     {
      "dex": 480,
      "name": "Uxie",
-     "form": null,
      "heading": "### Uxie (#480)",
      "lines": [
       {
@@ -27540,7 +27060,6 @@
     {
      "dex": 481,
      "name": "Mesprit",
-     "form": null,
      "heading": "### Mesprit (#481)",
      "lines": [
       {
@@ -27577,7 +27096,6 @@
     {
      "dex": 482,
      "name": "Azelf",
-     "form": null,
      "heading": "### Azelf (#482)",
      "lines": [
       {
@@ -27615,7 +27133,6 @@
     {
      "dex": 483,
      "name": "Dialga",
-     "form": null,
      "heading": "### Dialga (#483)",
      "lines": [
       {
@@ -27650,7 +27167,6 @@
     {
      "dex": 484,
      "name": "Palkia",
-     "form": null,
      "heading": "### Palkia (#484)",
      "lines": [
       {
@@ -27684,7 +27200,6 @@
     {
      "dex": 485,
      "name": "Heatran",
-     "form": null,
      "heading": "### Heatran (#485)",
      "lines": [
       {
@@ -27718,7 +27233,6 @@
     {
      "dex": 486,
      "name": "Regigigas",
-     "form": null,
      "heading": "### Regigigas (#486)",
      "lines": [
       {
@@ -27773,7 +27287,6 @@
     {
      "dex": 487,
      "name": "Giratina",
-     "form": null,
      "heading": "### Giratina (#487)",
      "lines": [
       {
@@ -27846,7 +27359,6 @@
     {
      "dex": 488,
      "name": "Cresselia",
-     "form": null,
      "heading": "### Cresselia (#488)",
      "lines": [
       {
@@ -27908,7 +27420,6 @@
     {
      "dex": 489,
      "name": "Phione",
-     "form": null,
      "heading": "### Phione (#489)",
      "lines": [
       {
@@ -27924,7 +27435,6 @@
     {
      "dex": 490,
      "name": "Manaphy",
-     "form": null,
      "heading": "### Manaphy (#490)",
      "lines": [
       {
@@ -27940,7 +27450,6 @@
     {
      "dex": 491,
      "name": "Darkrai",
-     "form": null,
      "heading": "### Darkrai (#491)",
      "lines": [
       {
@@ -27975,7 +27484,6 @@
     {
      "dex": 492,
      "name": "Shaymin",
-     "form": null,
      "heading": "### Shaymin (#492)",
      "lines": [
       {
@@ -28017,7 +27525,6 @@
     {
      "dex": 493,
      "name": "Arceus",
-     "form": null,
      "heading": "### Arceus (#493)",
      "lines": [
       {
@@ -28061,7 +27568,6 @@
     {
      "dex": 494,
      "name": "Victini",
-     "form": null,
      "heading": "### Victini (#494)",
      "lines": [
       {
@@ -28097,7 +27603,6 @@
     {
      "dex": 495,
      "name": "Snivy",
-     "form": null,
      "heading": "### Snivy (#495)",
      "lines": [
       {
@@ -28133,7 +27638,6 @@
     {
      "dex": 496,
      "name": "Servine",
-     "form": null,
      "heading": "### Servine (#496)",
      "lines": [
       {
@@ -28174,7 +27678,6 @@
     {
      "dex": 497,
      "name": "Serperior",
-     "form": null,
      "heading": "### Serperior (#497)",
      "lines": [
       {
@@ -28232,7 +27735,6 @@
     {
      "dex": 498,
      "name": "Tepig",
-     "form": null,
      "heading": "### Tepig (#498)",
      "lines": [
       {
@@ -28282,7 +27784,6 @@
     {
      "dex": 499,
      "name": "Pignite",
-     "form": null,
      "heading": "### Pignite (#499)",
      "lines": [
       {
@@ -28337,7 +27838,6 @@
     {
      "dex": 500,
      "name": "Emboar",
-     "form": null,
      "heading": "### Emboar (#500)",
      "lines": [
       {
@@ -28409,7 +27909,6 @@
     {
      "dex": 501,
      "name": "Oshawott",
-     "form": null,
      "heading": "### Oshawott (#501)",
      "lines": [
       {
@@ -28426,7 +27925,6 @@
     {
      "dex": 502,
      "name": "Dewott",
-     "form": null,
      "heading": "### Dewott (#502)",
      "lines": [
       {
@@ -28448,7 +27946,6 @@
     {
      "dex": 503,
      "name": "Samurott",
-     "form": null,
      "heading": "### Samurott (#503)",
      "lines": [
       {
@@ -28549,7 +28046,6 @@
     {
      "dex": 504,
      "name": "Patrat",
-     "form": null,
      "heading": "### Patrat (#504)",
      "lines": [
       {
@@ -28588,7 +28084,6 @@
     {
      "dex": 505,
      "name": "Watchog",
-     "form": null,
      "heading": "### Watchog (#505)",
      "lines": [
       {
@@ -28632,7 +28127,6 @@
     {
      "dex": 506,
      "name": "Lillipup",
-     "form": null,
      "heading": "### Lillipup (#506)",
      "lines": [
       {
@@ -28668,7 +28162,6 @@
     {
      "dex": 507,
      "name": "Herdier",
-     "form": null,
      "heading": "### Herdier (#507)",
      "lines": [
       {
@@ -28709,7 +28202,6 @@
     {
      "dex": 508,
      "name": "Stoutland",
-     "form": null,
      "heading": "### Stoutland (#508)",
      "lines": [
       {
@@ -28767,7 +28259,6 @@
     {
      "dex": 509,
      "name": "Purrloin",
-     "form": null,
      "heading": "### Purrloin (#509)",
      "lines": [
       {
@@ -28829,7 +28320,6 @@
     {
      "dex": 510,
      "name": "Liepard",
-     "form": null,
      "heading": "### Liepard (#510)",
      "lines": [
       {
@@ -28902,7 +28392,6 @@
     {
      "dex": 511,
      "name": "Pansage",
-     "form": null,
      "heading": "### Pansage (#511)",
      "lines": [
       {
@@ -28945,7 +28434,6 @@
     {
      "dex": 512,
      "name": "Simisage",
-     "form": null,
      "heading": "### Simisage (#512)",
      "lines": [
       {
@@ -28993,7 +28481,6 @@
     {
      "dex": 513,
      "name": "Pansear",
-     "form": null,
      "heading": "### Pansear (#513)",
      "lines": [
       {
@@ -29033,7 +28520,6 @@
     {
      "dex": 514,
      "name": "Simisear",
-     "form": null,
      "heading": "### Simisear (#514)",
      "lines": [
       {
@@ -29078,7 +28564,6 @@
     {
      "dex": 515,
      "name": "Panpour",
-     "form": null,
      "heading": "### Panpour (#515)",
      "lines": [
       {
@@ -29116,7 +28601,6 @@
     {
      "dex": 516,
      "name": "Simipour",
-     "form": null,
      "heading": "### Simipour (#516)",
      "lines": [
       {
@@ -29159,7 +28643,6 @@
     {
      "dex": 517,
      "name": "Munna",
-     "form": null,
      "heading": "### Munna (#517)",
      "lines": [
       {
@@ -29186,7 +28669,6 @@
     {
      "dex": 518,
      "name": "Musharna",
-     "form": null,
      "heading": "### Musharna (#518)",
      "lines": [
       {
@@ -29218,7 +28700,6 @@
     {
      "dex": 519,
      "name": "Pidove",
-     "form": null,
      "heading": "### Pidove (#519)",
      "lines": [
       {
@@ -29258,7 +28739,6 @@
     {
      "dex": 520,
      "name": "Tranquill",
-     "form": null,
      "heading": "### Tranquill (#520)",
      "lines": [
       {
@@ -29303,7 +28783,6 @@
     {
      "dex": 521,
      "name": "Unfezant",
-     "form": null,
      "heading": "### Unfezant (#521)",
      "lines": [
       {
@@ -29378,7 +28857,6 @@
     {
      "dex": 522,
      "name": "Blitzle",
-     "form": null,
      "heading": "### Blitzle (#522)",
      "lines": [
       {
@@ -29415,7 +28893,6 @@
     {
      "dex": 523,
      "name": "Zebstrika",
-     "form": null,
      "heading": "### Zebstrika (#523)",
      "lines": [
       {
@@ -29474,7 +28951,6 @@
     {
      "dex": 524,
      "name": "Roggenrola",
-     "form": null,
      "heading": "### Roggenrola (#524)",
      "lines": [
       {
@@ -29501,7 +28977,6 @@
     {
      "dex": 525,
      "name": "Boldore",
-     "form": null,
      "heading": "### Boldore (#525)",
      "lines": [
       {
@@ -29533,7 +29008,6 @@
     {
      "dex": 526,
      "name": "Gigalith",
-     "form": null,
      "heading": "### Gigalith (#526)",
      "lines": [
       {
@@ -29565,7 +29039,6 @@
     {
      "dex": 527,
      "name": "Woobat",
-     "form": null,
      "heading": "### Woobat (#527)",
      "lines": [
       {
@@ -29616,7 +29089,6 @@
     {
      "dex": 528,
      "name": "Swoobat",
-     "form": null,
      "heading": "### Swoobat (#528)",
      "lines": [
       {
@@ -29672,7 +29144,6 @@
     {
      "dex": 529,
      "name": "Drilbur",
-     "form": null,
      "heading": "### Drilbur (#529)",
      "lines": [
       {
@@ -29708,7 +29179,6 @@
     {
      "dex": 530,
      "name": "Excadrill",
-     "form": null,
      "heading": "### Excadrill (#530)",
      "lines": [
       {
@@ -29749,7 +29219,6 @@
     {
      "dex": 531,
      "name": "Audino",
-     "form": null,
      "heading": "### Audino (#531)",
      "lines": [
       {
@@ -29802,7 +29271,6 @@
     {
      "dex": 532,
      "name": "Timburr",
-     "form": null,
      "heading": "### Timburr (#532)",
      "lines": [
       {
@@ -29838,7 +29306,6 @@
     {
      "dex": 533,
      "name": "Gurdurr",
-     "form": null,
      "heading": "### Gurdurr (#533)",
      "lines": [
       {
@@ -29879,7 +29346,6 @@
     {
      "dex": 534,
      "name": "Conkeldurr",
-     "form": null,
      "heading": "### Conkeldurr (#534)",
      "lines": [
       {
@@ -29937,7 +29403,6 @@
     {
      "dex": 535,
      "name": "Tympole",
-     "form": null,
      "heading": "### Tympole (#535)",
      "lines": [
       {
@@ -29984,7 +29449,6 @@
     {
      "dex": 536,
      "name": "Palpitoad",
-     "form": null,
      "heading": "### Palpitoad (#536)",
      "lines": [
       {
@@ -30025,7 +29489,6 @@
     {
      "dex": 537,
      "name": "Seismitoad",
-     "form": null,
      "heading": "### Seismitoad (#537)",
      "lines": [
       {
@@ -30066,7 +29529,6 @@
     {
      "dex": 538,
      "name": "Throh",
-     "form": null,
      "heading": "### Throh (#538)",
      "lines": [
       {
@@ -30105,7 +29567,6 @@
     {
      "dex": 539,
      "name": "Sawk",
-     "form": null,
      "heading": "### Sawk (#539)",
      "lines": [
       {
@@ -30144,7 +29605,6 @@
     {
      "dex": 540,
      "name": "Sewaddle",
-     "form": null,
      "heading": "### Sewaddle (#540)",
      "lines": [
       {
@@ -30215,7 +29675,6 @@
     {
      "dex": 541,
      "name": "Swadloon",
-     "form": null,
      "heading": "### Swadloon (#541)",
      "lines": [
       {
@@ -30285,7 +29744,6 @@
     {
      "dex": 542,
      "name": "Leavanny",
-     "form": null,
      "heading": "### Leavanny (#542)",
      "lines": [
       {
@@ -30333,7 +29791,6 @@
     {
      "dex": 543,
      "name": "Venipede",
-     "form": null,
      "heading": "### Venipede (#543)",
      "lines": [
       {
@@ -30410,7 +29867,6 @@
     {
      "dex": 544,
      "name": "Whirlipede",
-     "form": null,
      "heading": "### Whirlipede (#544)",
      "lines": [
       {
@@ -30497,7 +29953,6 @@
     {
      "dex": 545,
      "name": "Scolipede",
-     "form": null,
      "heading": "### Scolipede (#545)",
      "lines": [
       {
@@ -30564,7 +30019,6 @@
     {
      "dex": 546,
      "name": "Cottonee",
-     "form": null,
      "heading": "### Cottonee (#546)",
      "lines": [
       {
@@ -30615,7 +30069,6 @@
     {
      "dex": 547,
      "name": "Whimsicott",
-     "form": null,
      "heading": "### Whimsicott (#547)",
      "lines": [
       {
@@ -30647,7 +30100,6 @@
     {
      "dex": 548,
      "name": "Petilil",
-     "form": null,
      "heading": "### Petilil (#548)",
      "lines": [
       {
@@ -30701,7 +30153,6 @@
     {
      "dex": 549,
      "name": "Lilligant",
-     "form": null,
      "heading": "### Lilligant (#549)",
      "lines": [
       {
@@ -30776,7 +30227,6 @@
     {
      "dex": 550,
      "name": "Basculin",
-     "form": null,
      "heading": "### Basculin (#550)",
      "lines": [
       {
@@ -30836,7 +30286,6 @@
     {
      "dex": 551,
      "name": "Sandile",
-     "form": null,
      "heading": "### Sandile (#551)",
      "lines": [
       {
@@ -30863,7 +30312,6 @@
     {
      "dex": 552,
      "name": "Krokorok",
-     "form": null,
      "heading": "### Krokorok (#552)",
      "lines": [
       {
@@ -30913,7 +30361,6 @@
     {
      "dex": 553,
      "name": "Krookodile",
-     "form": null,
      "heading": "### Krookodile (#553)",
      "lines": [
       {
@@ -30975,7 +30422,6 @@
     {
      "dex": 554,
      "name": "Darumaka",
-     "form": null,
      "heading": "### Darumaka (#554)",
      "lines": [
       {
@@ -31070,7 +30516,6 @@
     {
      "dex": 555,
      "name": "Darmanitan",
-     "form": null,
      "heading": "### Darmanitan (#555)",
      "lines": [
       {
@@ -31182,7 +30627,6 @@
     {
      "dex": 556,
      "name": "Maractus",
-     "form": null,
      "heading": "### Maractus (#556)",
      "lines": [
       {
@@ -31221,7 +30665,6 @@
     {
      "dex": 557,
      "name": "Dwebble",
-     "form": null,
      "heading": "### Dwebble (#557)",
      "lines": [
       {
@@ -31259,7 +30702,6 @@
     {
      "dex": 558,
      "name": "Crustle",
-     "form": null,
      "heading": "### Crustle (#558)",
      "lines": [
       {
@@ -31319,7 +30761,6 @@
     {
      "dex": 559,
      "name": "Scraggy",
-     "form": null,
      "heading": "### Scraggy (#559)",
      "lines": [
       {
@@ -31358,7 +30799,6 @@
     {
      "dex": 560,
      "name": "Scrafty",
-     "form": null,
      "heading": "### Scrafty (#560)",
      "lines": [
       {
@@ -31402,7 +30842,6 @@
     {
      "dex": 561,
      "name": "Sigilyph",
-     "form": null,
      "heading": "### Sigilyph (#561)",
      "lines": [
       {
@@ -31440,7 +30879,6 @@
     {
      "dex": 562,
      "name": "Yamask",
-     "form": null,
      "heading": "### Yamask (#562)",
      "lines": [
       {
@@ -31563,7 +31001,6 @@
     {
      "dex": 563,
      "name": "Cofagrigus",
-     "form": null,
      "heading": "### Cofagrigus (#563)",
      "lines": [
       {
@@ -31637,7 +31074,6 @@
     {
      "dex": 564,
      "name": "Tirtouga",
-     "form": null,
      "heading": "### Tirtouga (#564)",
      "lines": [
       {
@@ -31653,7 +31089,6 @@
     {
      "dex": 565,
      "name": "Carracosta",
-     "form": null,
      "heading": "### Carracosta (#565)",
      "lines": [
       {
@@ -31699,7 +31134,6 @@
     {
      "dex": 566,
      "name": "Archen",
-     "form": null,
      "heading": "### Archen (#566)",
      "lines": [
       {
@@ -31715,7 +31149,6 @@
     {
      "dex": 567,
      "name": "Archeops",
-     "form": null,
      "heading": "### Archeops (#567)",
      "lines": [
       {
@@ -31761,7 +31194,6 @@
     {
      "dex": 568,
      "name": "Trubbish",
-     "form": null,
      "heading": "### Trubbish (#568)",
      "lines": [
       {
@@ -31797,7 +31229,6 @@
     {
      "dex": 569,
      "name": "Garbodor",
-     "form": null,
      "heading": "### Garbodor (#569)",
      "lines": [
       {
@@ -31838,7 +31269,6 @@
     {
      "dex": 570,
      "name": "Zorua",
-     "form": null,
      "heading": "### Zorua (#570)",
      "lines": [
       {
@@ -31890,7 +31320,6 @@
     {
      "dex": 571,
      "name": "Zoroark",
-     "form": null,
      "heading": "### Zoroark (#571)",
      "lines": [
       {
@@ -31964,7 +31393,6 @@
     {
      "dex": 572,
      "name": "Minccino",
-     "form": null,
      "heading": "### Minccino (#572)",
      "lines": [
       {
@@ -32013,7 +31441,6 @@
     {
      "dex": 573,
      "name": "Cinccino",
-     "form": null,
      "heading": "### Cinccino (#573)",
      "lines": [
       {
@@ -32045,7 +31472,6 @@
     {
      "dex": 574,
      "name": "Gothita",
-     "form": null,
      "heading": "### Gothita (#574)",
      "lines": [
       {
@@ -32083,7 +31509,6 @@
     {
      "dex": 575,
      "name": "Gothorita",
-     "form": null,
      "heading": "### Gothorita (#575)",
      "lines": [
       {
@@ -32126,7 +31551,6 @@
     {
      "dex": 576,
      "name": "Gothitelle",
-     "form": null,
      "heading": "### Gothitelle (#576)",
      "lines": [
       {
@@ -32169,7 +31593,6 @@
     {
      "dex": 577,
      "name": "Solosis",
-     "form": null,
      "heading": "### Solosis (#577)",
      "lines": [
       {
@@ -32207,7 +31630,6 @@
     {
      "dex": 578,
      "name": "Duosion",
-     "form": null,
      "heading": "### Duosion (#578)",
      "lines": [
       {
@@ -32250,7 +31672,6 @@
     {
      "dex": 579,
      "name": "Reuniclus",
-     "form": null,
      "heading": "### Reuniclus (#579)",
      "lines": [
       {
@@ -32293,7 +31714,6 @@
     {
      "dex": 580,
      "name": "Ducklett",
-     "form": null,
      "heading": "### Ducklett (#580)",
      "lines": [
       {
@@ -32342,7 +31762,6 @@
     {
      "dex": 581,
      "name": "Swanna",
-     "form": null,
      "heading": "### Swanna (#581)",
      "lines": [
       {
@@ -32439,7 +31858,6 @@
     {
      "dex": 582,
      "name": "Vanillite",
-     "form": null,
      "heading": "### Vanillite (#582)",
      "lines": [
       {
@@ -32477,7 +31895,6 @@
     {
      "dex": 583,
      "name": "Vanillish",
-     "form": null,
      "heading": "### Vanillish (#583)",
      "lines": [
       {
@@ -32525,7 +31942,6 @@
     {
      "dex": 584,
      "name": "Vanilluxe",
-     "form": null,
      "heading": "### Vanilluxe (#584)",
      "lines": [
       {
@@ -32573,7 +31989,6 @@
     {
      "dex": 585,
      "name": "Deerling",
-     "form": null,
      "heading": "### Deerling (#585)",
      "lines": [
       {
@@ -32620,7 +32035,6 @@
     {
      "dex": 586,
      "name": "Sawsbuck",
-     "form": null,
      "heading": "### Sawsbuck (#586)",
      "lines": [
       {
@@ -32689,7 +32103,6 @@
     {
      "dex": 587,
      "name": "Emolga",
-     "form": null,
      "heading": "### Emolga (#587)",
      "lines": [
       {
@@ -32716,7 +32129,6 @@
     {
      "dex": 588,
      "name": "Karrablast",
-     "form": null,
      "heading": "### Karrablast (#588)",
      "lines": [
       {
@@ -32752,7 +32164,6 @@
     {
      "dex": 589,
      "name": "Escavalier",
-     "form": null,
      "heading": "### Escavalier (#589)",
      "lines": [
       {
@@ -32793,7 +32204,6 @@
     {
      "dex": 590,
      "name": "Foongus",
-     "form": null,
      "heading": "### Foongus (#590)",
      "lines": [
       {
@@ -32820,7 +32230,6 @@
     {
      "dex": 591,
      "name": "Amoonguss",
-     "form": null,
      "heading": "### Amoonguss (#591)",
      "lines": [
       {
@@ -32852,7 +32261,6 @@
     {
      "dex": 592,
      "name": "Frillish",
-     "form": null,
      "heading": "### Frillish (#592)",
      "lines": [
       {
@@ -32879,7 +32287,6 @@
     {
      "dex": 593,
      "name": "Jellicent",
-     "form": null,
      "heading": "### Jellicent (#593)",
      "lines": [
       {
@@ -32928,7 +32335,6 @@
     {
      "dex": 594,
      "name": "Alomomola",
-     "form": null,
      "heading": "### Alomomola (#594)",
      "lines": [
       {
@@ -32951,7 +32357,6 @@
     {
      "dex": 595,
      "name": "Joltik",
-     "form": null,
      "heading": "### Joltik (#595)",
      "lines": [
       {
@@ -33014,7 +32419,6 @@
     {
      "dex": 596,
      "name": "Galvantula",
-     "form": null,
      "heading": "### Galvantula (#596)",
      "lines": [
       {
@@ -33086,7 +32490,6 @@
     {
      "dex": 597,
      "name": "Ferroseed",
-     "form": null,
      "heading": "### Ferroseed (#597)",
      "lines": [
       {
@@ -33125,7 +32528,6 @@
     {
      "dex": 598,
      "name": "Ferrothorn",
-     "form": null,
      "heading": "### Ferrothorn (#598)",
      "lines": [
       {
@@ -33186,7 +32588,6 @@
     {
      "dex": 599,
      "name": "Klink",
-     "form": null,
      "heading": "### Klink (#599)",
      "lines": [
       {
@@ -33213,7 +32614,6 @@
     {
      "dex": 600,
      "name": "Klang",
-     "form": null,
      "heading": "### Klang (#600)",
      "lines": [
       {
@@ -33245,7 +32645,6 @@
     {
      "dex": 601,
      "name": "Klinklang",
-     "form": null,
      "heading": "### Klinklang (#601)",
      "lines": [
       {
@@ -33294,7 +32693,6 @@
     {
      "dex": 602,
      "name": "Tynamo",
-     "form": null,
      "heading": "### Tynamo (#602)",
      "lines": [
       {
@@ -33341,7 +32739,6 @@
     {
      "dex": 603,
      "name": "Eelektrik",
-     "form": null,
      "heading": "### Eelektrik (#603)",
      "lines": [
       {
@@ -33393,7 +32790,6 @@
     {
      "dex": 604,
      "name": "Eelektross",
-     "form": null,
      "heading": "### Eelektross (#604)",
      "lines": [
       {
@@ -33445,7 +32841,6 @@
     {
      "dex": 605,
      "name": "Elgyem",
-     "form": null,
      "heading": "### Elgyem (#605)",
      "lines": [
       {
@@ -33521,7 +32916,6 @@
     {
      "dex": 606,
      "name": "Beheeyem",
-     "form": null,
      "heading": "### Beheeyem (#606)",
      "lines": [
       {
@@ -33564,7 +32958,6 @@
     {
      "dex": 607,
      "name": "Litwick",
-     "form": null,
      "heading": "### Litwick (#607)",
      "lines": [
       {
@@ -33616,7 +33009,6 @@
     {
      "dex": 608,
      "name": "Lampent",
-     "form": null,
      "heading": "### Lampent (#608)",
      "lines": [
       {
@@ -33666,7 +33058,6 @@
     {
      "dex": 609,
      "name": "Chandelure",
-     "form": null,
      "heading": "### Chandelure (#609)",
      "lines": [
       {
@@ -33733,7 +33124,6 @@
     {
      "dex": 610,
      "name": "Axew",
-     "form": null,
      "heading": "### Axew (#610)",
      "lines": [
       {
@@ -33772,7 +33162,6 @@
     {
      "dex": 611,
      "name": "Fraxure",
-     "form": null,
      "heading": "### Fraxure (#611)",
      "lines": [
       {
@@ -33816,7 +33205,6 @@
     {
      "dex": 612,
      "name": "Haxorus",
-     "form": null,
      "heading": "### Haxorus (#612)",
      "lines": [
       {
@@ -33877,7 +33265,6 @@
     {
      "dex": 613,
      "name": "Cubchoo",
-     "form": null,
      "heading": "### Cubchoo (#613)",
      "lines": [
       {
@@ -33925,7 +33312,6 @@
     {
      "dex": 614,
      "name": "Beartic",
-     "form": null,
      "heading": "### Beartic (#614)",
      "lines": [
       {
@@ -33989,7 +33375,6 @@
     {
      "dex": 615,
      "name": "Cryogonal",
-     "form": null,
      "heading": "### Cryogonal (#615)",
      "lines": [
       {
@@ -34032,7 +33417,6 @@
     {
      "dex": 616,
      "name": "Shelmet",
-     "form": null,
      "heading": "### Shelmet (#616)",
      "lines": [
       {
@@ -34068,7 +33452,6 @@
     {
      "dex": 617,
      "name": "Accelgor",
-     "form": null,
      "heading": "### Accelgor (#617)",
      "lines": [
       {
@@ -34109,7 +33492,6 @@
     {
      "dex": 618,
      "name": "Stunfisk",
-     "form": null,
      "heading": "### Stunfisk (#618)",
      "lines": [
       {
@@ -34212,7 +33594,6 @@
     {
      "dex": 619,
      "name": "Mienfoo",
-     "form": null,
      "heading": "### Mienfoo (#619)",
      "lines": [
       {
@@ -34229,7 +33610,6 @@
     {
      "dex": 620,
      "name": "Mienshao",
-     "form": null,
      "heading": "### Mienshao (#620)",
      "lines": [
       {
@@ -34251,7 +33631,6 @@
     {
      "dex": 621,
      "name": "Druddigon",
-     "form": null,
      "heading": "### Druddigon (#621)",
      "lines": [
       {
@@ -34325,7 +33704,6 @@
     {
      "dex": 622,
      "name": "Golett",
-     "form": null,
      "heading": "### Golett (#622)",
      "lines": [
       {
@@ -34427,7 +33805,6 @@
     {
      "dex": 623,
      "name": "Golurk",
-     "form": null,
      "heading": "### Golurk (#623)",
      "lines": [
       {
@@ -34489,7 +33866,6 @@
     {
      "dex": 624,
      "name": "Pawniard",
-     "form": null,
      "heading": "### Pawniard (#624)",
      "lines": [
       {
@@ -34567,7 +33943,6 @@
     {
      "dex": 625,
      "name": "Bisharp",
-     "form": null,
      "heading": "### Bisharp (#625)",
      "lines": [
       {
@@ -34624,7 +33999,6 @@
     {
      "dex": 626,
      "name": "Bouffalant",
-     "form": null,
      "heading": "### Bouffalant (#626)",
      "lines": [
       {
@@ -34679,7 +34053,6 @@
     {
      "dex": 627,
      "name": "Rufflet",
-     "form": null,
      "heading": "### Rufflet (#627)",
      "lines": [
       {
@@ -34762,7 +34135,6 @@
     {
      "dex": 628,
      "name": "Braviary",
-     "form": null,
      "heading": "### Braviary (#628)",
      "lines": [
       {
@@ -34917,7 +34289,6 @@
     {
      "dex": 629,
      "name": "Vullaby",
-     "form": null,
      "heading": "### Vullaby (#629)",
      "lines": [
       {
@@ -34955,7 +34326,6 @@
     {
      "dex": 630,
      "name": "Mandibuzz",
-     "form": null,
      "heading": "### Mandibuzz (#630)",
      "lines": [
       {
@@ -34998,7 +34368,6 @@
     {
      "dex": 631,
      "name": "Heatmor",
-     "form": null,
      "heading": "### Heatmor (#631)",
      "lines": [
       {
@@ -35042,7 +34411,6 @@
     {
      "dex": 632,
      "name": "Durant",
-     "form": null,
      "heading": "### Durant (#632)",
      "lines": [
       {
@@ -35101,7 +34469,6 @@
     {
      "dex": 633,
      "name": "Deino",
-     "form": null,
      "heading": "### Deino (#633)",
      "lines": [
       {
@@ -35164,7 +34531,6 @@
     {
      "dex": 634,
      "name": "Zweilous",
-     "form": null,
      "heading": "### Zweilous (#634)",
      "lines": [
       {
@@ -35221,7 +34587,6 @@
     {
      "dex": 635,
      "name": "Hydreigon",
-     "form": null,
      "heading": "### Hydreigon (#635)",
      "lines": [
       {
@@ -35319,7 +34684,6 @@
     {
      "dex": 636,
      "name": "Larvesta",
-     "form": null,
      "heading": "### Larvesta (#636)",
      "lines": [
       {
@@ -35362,7 +34726,6 @@
     {
      "dex": 637,
      "name": "Volcarona",
-     "form": null,
      "heading": "### Volcarona (#637)",
      "lines": [
       {
@@ -35440,7 +34803,6 @@
     {
      "dex": 638,
      "name": "Cobalion",
-     "form": null,
      "heading": "### Cobalion (#638)",
      "lines": [
       {
@@ -35487,7 +34849,6 @@
     {
      "dex": 639,
      "name": "Terrakion",
-     "form": null,
      "heading": "### Terrakion (#639)",
      "lines": [
       {
@@ -35534,7 +34895,6 @@
     {
      "dex": 640,
      "name": "Virizion",
-     "form": null,
      "heading": "### Virizion (#640)",
      "lines": [
       {
@@ -35586,7 +34946,6 @@
     {
      "dex": 641,
      "name": "Tornadus",
-     "form": null,
      "heading": "### Tornadus (#641)",
      "lines": [
       {
@@ -35653,7 +35012,6 @@
     {
      "dex": 642,
      "name": "Thundurus",
-     "form": null,
      "heading": "### Thundurus (#642)",
      "lines": [
       {
@@ -35722,7 +35080,6 @@
     {
      "dex": 643,
      "name": "Reshiram",
-     "form": null,
      "heading": "### Reshiram (#643)",
      "lines": [
       {
@@ -35786,7 +35143,6 @@
     {
      "dex": 644,
      "name": "Zekrom",
-     "form": null,
      "heading": "### Zekrom (#644)",
      "lines": [
       {
@@ -35850,7 +35206,6 @@
     {
      "dex": 645,
      "name": "Landorus",
-     "form": null,
      "heading": "### Landorus (#645)",
      "lines": [
       {
@@ -35919,7 +35274,6 @@
     {
      "dex": 646,
      "name": "Kyurem",
-     "form": null,
      "heading": "### Kyurem (#646)",
      "lines": [
       {
@@ -35973,7 +35327,6 @@
     {
      "dex": 647,
      "name": "Keldeo",
-     "form": null,
      "heading": "### Keldeo (#647)",
      "lines": [
       {
@@ -36020,7 +35373,6 @@
     {
      "dex": 648,
      "name": "Meloetta",
-     "form": null,
      "heading": "### Meloetta (#648)",
      "lines": [
       {
@@ -36061,7 +35413,6 @@
     {
      "dex": 649,
      "name": "Genesect",
-     "form": null,
      "heading": "### Genesect (#649)",
      "lines": [
       {
@@ -36120,7 +35471,6 @@
     {
      "dex": 650,
      "name": "Chespin",
-     "form": null,
      "heading": "### Chespin (#650)",
      "lines": [
       {
@@ -36157,7 +35507,6 @@
     {
      "dex": 651,
      "name": "Quilladin",
-     "form": null,
      "heading": "### Quilladin (#651)",
      "lines": [
       {
@@ -36199,7 +35548,6 @@
     {
      "dex": 652,
      "name": "Chesnaught",
-     "form": null,
      "heading": "### Chesnaught (#652)",
      "lines": [
       {
@@ -36258,7 +35606,6 @@
     {
      "dex": 653,
      "name": "Fennekin",
-     "form": null,
      "heading": "### Fennekin (#653)",
      "lines": [
       {
@@ -36295,7 +35642,6 @@
     {
      "dex": 654,
      "name": "Braixen",
-     "form": null,
      "heading": "### Braixen (#654)",
      "lines": [
       {
@@ -36337,7 +35683,6 @@
     {
      "dex": 655,
      "name": "Delphox",
-     "form": null,
      "heading": "### Delphox (#655)",
      "lines": [
       {
@@ -36396,7 +35741,6 @@
     {
      "dex": 656,
      "name": "Froakie",
-     "form": null,
      "heading": "### Froakie (#656)",
      "lines": [
       {
@@ -36462,7 +35806,6 @@
     {
      "dex": 657,
      "name": "Frogadier",
-     "form": null,
      "heading": "### Frogadier (#657)",
      "lines": [
       {
@@ -36528,7 +35871,6 @@
     {
      "dex": 658,
      "name": "Greninja",
-     "form": null,
      "heading": "### Greninja (#658)",
      "lines": [
       {
@@ -36629,7 +35971,6 @@
     {
      "dex": 659,
      "name": "Bunnelby",
-     "form": null,
      "heading": "### Bunnelby (#659)",
      "lines": [
       {
@@ -36671,7 +36012,6 @@
     {
      "dex": 660,
      "name": "Diggersby",
-     "form": null,
      "heading": "### Diggersby (#660)",
      "lines": [
       {
@@ -36718,7 +36058,6 @@
     {
      "dex": 661,
      "name": "Fletchling",
-     "form": null,
      "heading": "### Fletchling (#661)",
      "lines": [
       {
@@ -36788,7 +36127,6 @@
     {
      "dex": 662,
      "name": "Fletchinder",
-     "form": null,
      "heading": "### Fletchinder (#662)",
      "lines": [
       {
@@ -36863,7 +36201,6 @@
     {
      "dex": 663,
      "name": "Talonflame",
-     "form": null,
      "heading": "### Talonflame (#663)",
      "lines": [
       {
@@ -36968,7 +36305,6 @@
     {
      "dex": 664,
      "name": "Scatterbug",
-     "form": null,
      "heading": "### Scatterbug (#664)",
      "lines": [
       {
@@ -37010,7 +36346,6 @@
     {
      "dex": 665,
      "name": "Spewpa",
-     "form": null,
      "heading": "### Spewpa (#665)",
      "lines": [
       {
@@ -37057,7 +36392,6 @@
     {
      "dex": 666,
      "name": "Vivillon",
-     "form": null,
      "heading": "### Vivillon (#666)",
      "lines": [
       {
@@ -37128,7 +36462,6 @@
     {
      "dex": 667,
      "name": "Litleo",
-     "form": null,
      "heading": "### Litleo (#667)",
      "lines": [
       {
@@ -37181,7 +36514,6 @@
     {
      "dex": 668,
      "name": "Pyroar",
-     "form": null,
      "heading": "### Pyroar (#668)",
      "lines": [
       {
@@ -37239,7 +36571,6 @@
     {
      "dex": 669,
      "name": "Flabebe",
-     "form": null,
      "heading": "### Flabebe (#669)",
      "lines": [
       {
@@ -37277,7 +36608,6 @@
     {
      "dex": 670,
      "name": "Floette",
-     "form": null,
      "heading": "### Floette (#670)",
      "lines": [
       {
@@ -37346,7 +36676,6 @@
     {
      "dex": 671,
      "name": "Florges",
-     "form": null,
      "heading": "### Florges (#671)",
      "lines": [
       {
@@ -37415,7 +36744,6 @@
     {
      "dex": 672,
      "name": "Skiddo",
-     "form": null,
      "heading": "### Skiddo (#672)",
      "lines": [
       {
@@ -37482,7 +36810,6 @@
     {
      "dex": 673,
      "name": "Gogoat",
-     "form": null,
      "heading": "### Gogoat (#673)",
      "lines": [
       {
@@ -37543,7 +36870,6 @@
     {
      "dex": 674,
      "name": "Pancham",
-     "form": null,
      "heading": "### Pancham (#674)",
      "lines": [
       {
@@ -37580,7 +36906,6 @@
     {
      "dex": 675,
      "name": "Pangoro",
-     "form": null,
      "heading": "### Pangoro (#675)",
      "lines": [
       {
@@ -37621,7 +36946,6 @@
     {
      "dex": 676,
      "name": "Furfrou",
-     "form": null,
      "heading": "### Furfrou (#676)",
      "lines": [
       {
@@ -37674,7 +36998,6 @@
     {
      "dex": 677,
      "name": "Espurr",
-     "form": null,
      "heading": "### Espurr (#677)",
      "lines": [
       {
@@ -37712,7 +37035,6 @@
     {
      "dex": 678,
      "name": "Meowstic",
-     "form": null,
      "heading": "### Meowstic (#678)",
      "lines": [
       {
@@ -37750,7 +37072,6 @@
     {
      "dex": 679,
      "name": "Honedge",
-     "form": null,
      "heading": "### Honedge (#679)",
      "lines": [
       {
@@ -37799,7 +37120,6 @@
     {
      "dex": 680,
      "name": "Doublade",
-     "form": null,
      "heading": "### Doublade (#680)",
      "lines": [
       {
@@ -37869,7 +37189,6 @@
     {
      "dex": 681,
      "name": "Aegislash",
-     "form": null,
      "heading": "### Aegislash (#681)",
      "lines": [
       {
@@ -37949,7 +37268,6 @@
     {
      "dex": 682,
      "name": "Spritzee",
-     "form": null,
      "heading": "### Spritzee (#682)",
      "lines": [
       {
@@ -38001,7 +37319,6 @@
     {
      "dex": 683,
      "name": "Aromatisse",
-     "form": null,
      "heading": "### Aromatisse (#683)",
      "lines": [
       {
@@ -38058,7 +37375,6 @@
     {
      "dex": 684,
      "name": "Swirlix",
-     "form": null,
      "heading": "### Swirlix (#684)",
      "lines": [
       {
@@ -38094,7 +37410,6 @@
     {
      "dex": 685,
      "name": "Slurpuff",
-     "form": null,
      "heading": "### Slurpuff (#685)",
      "lines": [
       {
@@ -38135,7 +37450,6 @@
     {
      "dex": 686,
      "name": "Inkay",
-     "form": null,
      "heading": "### Inkay (#686)",
      "lines": [
       {
@@ -38210,7 +37524,6 @@
     {
      "dex": 687,
      "name": "Malamar",
-     "form": null,
      "heading": "### Malamar (#687)",
      "lines": [
       {
@@ -38290,7 +37603,6 @@
     {
      "dex": 688,
      "name": "Binacle",
-     "form": null,
      "heading": "### Binacle (#688)",
      "lines": [
       {
@@ -38307,7 +37619,6 @@
     {
      "dex": 689,
      "name": "Barbaracle",
-     "form": null,
      "heading": "### Barbaracle (#689)",
      "lines": [
       {
@@ -38329,7 +37640,6 @@
     {
      "dex": 690,
      "name": "Skrelp",
-     "form": null,
      "heading": "### Skrelp (#690)",
      "lines": [
       {
@@ -38377,7 +37687,6 @@
     {
      "dex": 691,
      "name": "Dragalge",
-     "form": null,
      "heading": "### Dragalge (#691)",
      "lines": [
       {
@@ -38409,7 +37718,6 @@
     {
      "dex": 692,
      "name": "Clauncher",
-     "form": null,
      "heading": "### Clauncher (#692)",
      "lines": [
       {
@@ -38426,7 +37734,6 @@
     {
      "dex": 693,
      "name": "Clawitzer",
-     "form": null,
      "heading": "### Clawitzer (#693)",
      "lines": [
       {
@@ -38465,7 +37772,6 @@
     {
      "dex": 694,
      "name": "Helioptile",
-     "form": null,
      "heading": "### Helioptile (#694)",
      "lines": [
       {
@@ -38521,7 +37827,6 @@
     {
      "dex": 695,
      "name": "Heliolisk",
-     "form": null,
      "heading": "### Heliolisk (#695)",
      "lines": [
       {
@@ -38582,7 +37887,6 @@
     {
      "dex": 696,
      "name": "Tyrunt",
-     "form": null,
      "heading": "### Tyrunt (#696)",
      "lines": [
       {
@@ -38598,7 +37902,6 @@
     {
      "dex": 697,
      "name": "Tyrantrum",
-     "form": null,
      "heading": "### Tyrantrum (#697)",
      "lines": [
       {
@@ -38647,7 +37950,6 @@
     {
      "dex": 698,
      "name": "Amaura",
-     "form": null,
      "heading": "### Amaura (#698)",
      "lines": [
       {
@@ -38663,7 +37965,6 @@
     {
      "dex": 699,
      "name": "Aurorus",
-     "form": null,
      "heading": "### Aurorus (#699)",
      "lines": [
       {
@@ -38696,7 +37997,6 @@
     {
      "dex": 700,
      "name": "Sylveon",
-     "form": null,
      "heading": "### Sylveon (#700)",
      "lines": [
       {
@@ -38797,7 +38097,6 @@
     {
      "dex": 701,
      "name": "Hawlucha",
-     "form": null,
      "heading": "### Hawlucha (#701)",
      "lines": [
       {
@@ -38853,7 +38152,6 @@
     {
      "dex": 702,
      "name": "Dedenne",
-     "form": null,
      "heading": "### Dedenne (#702)",
      "lines": [
       {
@@ -38880,7 +38178,6 @@
     {
      "dex": 703,
      "name": "Carbink",
-     "form": null,
      "heading": "### Carbink (#703)",
      "lines": [
       {
@@ -38918,7 +38215,6 @@
     {
      "dex": 704,
      "name": "Goomy",
-     "form": null,
      "heading": "### Goomy (#704)",
      "lines": [
       {
@@ -39020,7 +38316,6 @@
     {
      "dex": 705,
      "name": "Sliggoo",
-     "form": null,
      "heading": "### Sliggoo (#705)",
      "lines": [
       {
@@ -39176,7 +38471,6 @@
     {
      "dex": 706,
      "name": "Goodra",
-     "form": null,
      "heading": "### Goodra (#706)",
      "lines": [
       {
@@ -39349,7 +38643,6 @@
     {
      "dex": 707,
      "name": "Klefki",
-     "form": null,
      "heading": "### Klefki (#707)",
      "lines": [
       {
@@ -39385,7 +38678,6 @@
     {
      "dex": 708,
      "name": "Phantump",
-     "form": null,
      "heading": "### Phantump (#708)",
      "lines": [
       {
@@ -39412,7 +38704,6 @@
     {
      "dex": 709,
      "name": "Trevenant",
-     "form": null,
      "heading": "### Trevenant (#709)",
      "lines": [
       {
@@ -39461,7 +38752,6 @@
     {
      "dex": 710,
      "name": "Pumpkaboo",
-     "form": null,
      "heading": "### Pumpkaboo (#710)",
      "lines": [
       {
@@ -39521,7 +38811,6 @@
     {
      "dex": 711,
      "name": "Gourgeist",
-     "form": null,
      "heading": "### Gourgeist (#711)",
      "lines": [
       {
@@ -39586,7 +38875,6 @@
     {
      "dex": 712,
      "name": "Bergmite",
-     "form": null,
      "heading": "### Bergmite (#712)",
      "lines": [
       {
@@ -39640,7 +38928,6 @@
     {
      "dex": 713,
      "name": "Avalugg",
-     "form": null,
      "heading": "### Avalugg (#713)",
      "lines": [
       {
@@ -39716,7 +39003,6 @@
     {
      "dex": 714,
      "name": "Noibat",
-     "form": null,
      "heading": "### Noibat (#714)",
      "lines": [
       {
@@ -39753,7 +39039,6 @@
     {
      "dex": 715,
      "name": "Noivern",
-     "form": null,
      "heading": "### Noivern (#715)",
      "lines": [
       {
@@ -39825,7 +39110,6 @@
     {
      "dex": 716,
      "name": "Xerneas",
-     "form": null,
      "heading": "### Xerneas (#716)",
      "lines": [
       {
@@ -39878,7 +39162,6 @@
     {
      "dex": 717,
      "name": "Yveltal",
-     "form": null,
      "heading": "### Yveltal (#717)",
      "lines": [
       {
@@ -39943,7 +39226,6 @@
     {
      "dex": 718,
      "name": "Zygarde",
-     "form": null,
      "heading": "### Zygarde (#718)",
      "lines": [
       {
@@ -39981,7 +39263,6 @@
     {
      "dex": 719,
      "name": "Diancie",
-     "form": null,
      "heading": "### Diancie (#719)",
      "lines": [
       {
@@ -40024,7 +39305,6 @@
     {
      "dex": 720,
      "name": "Hoopa",
-     "form": null,
      "heading": "### Hoopa (#720)",
      "lines": [
       {
@@ -40059,7 +39339,6 @@
     {
      "dex": 721,
      "name": "Volcanion",
-     "form": null,
      "heading": "### Volcanion (#721)",
      "lines": [
       {
@@ -40104,7 +39383,6 @@
     {
      "dex": 722,
      "name": "Rowlet",
-     "form": null,
      "heading": "### Rowlet (#722)",
      "lines": [
       {
@@ -40149,7 +39427,6 @@
     {
      "dex": 723,
      "name": "Dartrix",
-     "form": null,
      "heading": "### Dartrix (#723)",
      "lines": [
       {
@@ -40199,7 +39476,6 @@
     {
      "dex": 724,
      "name": "Decidueye",
-     "form": null,
      "heading": "### Decidueye (#724)",
      "lines": [
       {
@@ -40307,7 +39583,6 @@
     {
      "dex": 725,
      "name": "Litten",
-     "form": null,
      "heading": "### Litten (#725)",
      "lines": [
       {
@@ -40343,7 +39618,6 @@
     {
      "dex": 726,
      "name": "Torracat",
-     "form": null,
      "heading": "### Torracat (#726)",
      "lines": [
       {
@@ -40384,7 +39658,6 @@
     {
      "dex": 727,
      "name": "Incineroar",
-     "form": null,
      "heading": "### Incineroar (#727)",
      "lines": [
       {
@@ -40442,7 +39715,6 @@
     {
      "dex": 728,
      "name": "Popplio",
-     "form": null,
      "heading": "### Popplio (#728)",
      "lines": [
       {
@@ -40459,7 +39731,6 @@
     {
      "dex": 729,
      "name": "Brionne",
-     "form": null,
      "heading": "### Brionne (#729)",
      "lines": [
       {
@@ -40481,7 +39752,6 @@
     {
      "dex": 730,
      "name": "Primarina",
-     "form": null,
      "heading": "### Primarina (#730)",
      "lines": [
       {
@@ -40533,7 +39803,6 @@
     {
      "dex": 731,
      "name": "Pikipek",
-     "form": null,
      "heading": "### Pikipek (#731)",
      "lines": [
       {
@@ -40573,7 +39842,6 @@
     {
      "dex": 732,
      "name": "Trumbeak",
-     "form": null,
      "heading": "### Trumbeak (#732)",
      "lines": [
       {
@@ -40618,7 +39886,6 @@
     {
      "dex": 733,
      "name": "Toucannon",
-     "form": null,
      "heading": "### Toucannon (#733)",
      "lines": [
       {
@@ -40693,7 +39960,6 @@
     {
      "dex": 734,
      "name": "Yungoos",
-     "form": null,
      "heading": "### Yungoos (#734)",
      "lines": [
       {
@@ -40731,7 +39997,6 @@
     {
      "dex": 735,
      "name": "Gumshoos",
-     "form": null,
      "heading": "### Gumshoos (#735)",
      "lines": [
       {
@@ -40774,7 +40039,6 @@
     {
      "dex": 736,
      "name": "Grubbin",
-     "form": null,
      "heading": "### Grubbin (#736)",
      "lines": [
       {
@@ -40826,7 +40090,6 @@
     {
      "dex": 737,
      "name": "Charjabug",
-     "form": null,
      "heading": "### Charjabug (#737)",
      "lines": [
       {
@@ -40883,7 +40146,6 @@
     {
      "dex": 738,
      "name": "Vikavolt",
-     "form": null,
      "heading": "### Vikavolt (#738)",
      "lines": [
       {
@@ -40940,7 +40202,6 @@
     {
      "dex": 739,
      "name": "Crabrawler",
-     "form": null,
      "heading": "### Crabrawler (#739)",
      "lines": [
       {
@@ -40957,7 +40218,6 @@
     {
      "dex": 740,
      "name": "Crabominable",
-     "form": null,
      "heading": "### Crabominable (#740)",
      "lines": [
       {
@@ -40996,7 +40256,6 @@
     {
      "dex": 741,
      "name": "Oricorio",
-     "form": null,
      "heading": "### Oricorio (#741)",
      "lines": [
       {
@@ -41038,7 +40297,6 @@
     {
      "dex": 742,
      "name": "Cutiefly",
-     "form": null,
      "heading": "### Cutiefly (#742)",
      "lines": [
       {
@@ -41098,7 +40356,6 @@
     {
      "dex": 743,
      "name": "Ribombee",
-     "form": null,
      "heading": "### Ribombee (#743)",
      "lines": [
       {
@@ -41152,7 +40409,6 @@
     {
      "dex": 744,
      "name": "Rockruff",
-     "form": null,
      "heading": "### Rockruff (#744)",
      "lines": [
       {
@@ -41218,7 +40474,6 @@
     {
      "dex": 745,
      "name": "Lycanroc",
-     "form": null,
      "heading": "### Lycanroc (#745)",
      "lines": [
       {
@@ -41313,7 +40568,6 @@
     {
      "dex": 746,
      "name": "Wishiwashi",
-     "form": null,
      "heading": "### Wishiwashi (#746)",
      "lines": [
       {
@@ -41330,7 +40584,6 @@
     {
      "dex": 747,
      "name": "Mareanie",
-     "form": null,
      "heading": "### Mareanie (#747)",
      "lines": [
       {
@@ -41391,7 +40644,6 @@
     {
      "dex": 748,
      "name": "Toxapex",
-     "form": null,
      "heading": "### Toxapex (#748)",
      "lines": [
       {
@@ -41440,7 +40692,6 @@
     {
      "dex": 749,
      "name": "Mudbray",
-     "form": null,
      "heading": "### Mudbray (#749)",
      "lines": [
       {
@@ -41480,7 +40731,6 @@
     {
      "dex": 750,
      "name": "Mudsdale",
-     "form": null,
      "heading": "### Mudsdale (#750)",
      "lines": [
       {
@@ -41542,7 +40792,6 @@
     {
      "dex": 751,
      "name": "Dewpider",
-     "form": null,
      "heading": "### Dewpider (#751)",
      "lines": [
       {
@@ -41605,7 +40854,6 @@
     {
      "dex": 752,
      "name": "Araquanid",
-     "form": null,
      "heading": "### Araquanid (#752)",
      "lines": [
       {
@@ -41673,7 +40921,6 @@
     {
      "dex": 753,
      "name": "Fomantis",
-     "form": null,
      "heading": "### Fomantis (#753)",
      "lines": [
       {
@@ -41712,7 +40959,6 @@
     {
      "dex": 754,
      "name": "Lurantis",
-     "form": null,
      "heading": "### Lurantis (#754)",
      "lines": [
       {
@@ -41756,7 +41002,6 @@
     {
      "dex": 755,
      "name": "Morelull",
-     "form": null,
      "heading": "### Morelull (#755)",
      "lines": [
       {
@@ -41825,7 +41070,6 @@
     {
      "dex": 756,
      "name": "Shiinotic",
-     "form": null,
      "heading": "### Shiinotic (#756)",
      "lines": [
       {
@@ -41886,7 +41130,6 @@
     {
      "dex": 757,
      "name": "Salandit",
-     "form": null,
      "heading": "### Salandit (#757)",
      "lines": [
       {
@@ -41971,7 +41214,6 @@
     {
      "dex": 758,
      "name": "Salazzle",
-     "form": null,
      "heading": "### Salazzle (#758)",
      "lines": [
       {
@@ -42042,7 +41284,6 @@
     {
      "dex": 759,
      "name": "Stufful",
-     "form": null,
      "heading": "### Stufful (#759)",
      "lines": [
       {
@@ -42078,7 +41319,6 @@
     {
      "dex": 760,
      "name": "Bewear",
-     "form": null,
      "heading": "### Bewear (#760)",
      "lines": [
       {
@@ -42136,7 +41376,6 @@
     {
      "dex": 761,
      "name": "Bounsweet",
-     "form": null,
      "heading": "### Bounsweet (#761)",
      "lines": [
       {
@@ -42173,7 +41412,6 @@
     {
      "dex": 762,
      "name": "Steenee",
-     "form": null,
      "heading": "### Steenee (#762)",
      "lines": [
       {
@@ -42215,7 +41453,6 @@
     {
      "dex": 763,
      "name": "Tsareena",
-     "form": null,
      "heading": "### Tsareena (#763)",
      "lines": [
       {
@@ -42257,7 +41494,6 @@
     {
      "dex": 764,
      "name": "Comfey",
-     "form": null,
      "heading": "### Comfey (#764)",
      "lines": [
       {
@@ -42284,7 +41520,6 @@
     {
      "dex": 765,
      "name": "Oranguru",
-     "form": null,
      "heading": "### Oranguru (#765)",
      "lines": [
       {
@@ -42337,7 +41572,6 @@
     {
      "dex": 766,
      "name": "Passimian",
-     "form": null,
      "heading": "### Passimian (#766)",
      "lines": [
       {
@@ -42400,7 +41634,6 @@
     {
      "dex": 767,
      "name": "Wimpod",
-     "form": null,
      "heading": "### Wimpod (#767)",
      "lines": [
       {
@@ -42458,7 +41691,6 @@
     {
      "dex": 768,
      "name": "Golisopod",
-     "form": null,
      "heading": "### Golisopod (#768)",
      "lines": [
       {
@@ -42551,7 +41783,6 @@
     {
      "dex": 769,
      "name": "Sandygast",
-     "form": null,
      "heading": "### Sandygast (#769)",
      "lines": [
       {
@@ -42568,7 +41799,6 @@
     {
      "dex": 770,
      "name": "Palossand",
-     "form": null,
      "heading": "### Palossand (#770)",
      "lines": [
       {
@@ -42590,7 +41820,6 @@
     {
      "dex": 771,
      "name": "Pyukumuku",
-     "form": null,
      "heading": "### Pyukumuku (#771)",
      "lines": [
       {
@@ -42607,7 +41836,6 @@
     {
      "dex": 772,
      "name": "Type: Null",
-     "form": null,
      "heading": "### Type: Null (#772)",
      "lines": [
       {
@@ -42654,7 +41882,6 @@
     {
      "dex": 773,
      "name": "Silvally",
-     "form": null,
      "heading": "### Silvally (#773)",
      "lines": [
       {
@@ -42670,7 +41897,6 @@
     {
      "dex": 774,
      "name": "Minior",
-     "form": null,
      "heading": "### Minior (#774)",
      "lines": [
       {
@@ -42711,7 +41937,6 @@
     {
      "dex": 775,
      "name": "Komala",
-     "form": null,
      "heading": "### Komala (#775)",
      "lines": [
       {
@@ -42750,7 +41975,6 @@
     {
      "dex": 776,
      "name": "Turtonator",
-     "form": null,
      "heading": "### Turtonator (#776)",
      "lines": [
       {
@@ -42819,7 +42043,6 @@
     {
      "dex": 777,
      "name": "Togedemaru",
-     "form": null,
      "heading": "### Togedemaru (#777)",
      "lines": [
       {
@@ -42846,7 +42069,6 @@
     {
      "dex": 778,
      "name": "Mimikyu",
-     "form": null,
      "heading": "### Mimikyu (#778)",
      "lines": [
       {
@@ -42898,7 +42120,6 @@
     {
      "dex": 779,
      "name": "Bruxish",
-     "form": null,
      "heading": "### Bruxish (#779)",
      "lines": [
       {
@@ -42915,7 +42136,6 @@
     {
      "dex": 780,
      "name": "Drampa",
-     "form": null,
      "heading": "### Drampa (#780)",
      "lines": [
       {
@@ -42962,7 +42182,6 @@
     {
      "dex": 781,
      "name": "Dhelmise",
-     "form": null,
      "heading": "### Dhelmise (#781)",
      "lines": [
       {
@@ -43009,7 +42228,6 @@
     {
      "dex": 782,
      "name": "Jangmo-o",
-     "form": null,
      "heading": "### Jangmo-o (#782)",
      "lines": [
       {
@@ -43032,7 +42250,6 @@
     {
      "dex": 783,
      "name": "Hakamo-o",
-     "form": null,
      "heading": "### Hakamo-o (#783)",
      "lines": [
       {
@@ -43060,7 +42277,6 @@
     {
      "dex": 784,
      "name": "Kommo-o",
-     "form": null,
      "heading": "### Kommo-o (#784)",
      "lines": [
       {
@@ -43105,7 +42321,6 @@
     {
      "dex": 785,
      "name": "Tapu Koko",
-     "form": null,
      "heading": "### Tapu Koko (#785)",
      "lines": [
       {
@@ -43143,7 +42358,6 @@
     {
      "dex": 786,
      "name": "Tapu Lele",
-     "form": null,
      "heading": "### Tapu Lele (#786)",
      "lines": [
       {
@@ -43181,7 +42395,6 @@
     {
      "dex": 787,
      "name": "Tapu Bulu",
-     "form": null,
      "heading": "### Tapu Bulu (#787)",
      "lines": [
       {
@@ -43219,7 +42432,6 @@
     {
      "dex": 788,
      "name": "Tapu Fini",
-     "form": null,
      "heading": "### Tapu Fini (#788)",
      "lines": [
       {
@@ -43257,7 +42469,6 @@
     {
      "dex": 789,
      "name": "Cosmog",
-     "form": null,
      "heading": "### Cosmog (#789)",
      "lines": [
       {
@@ -43289,7 +42500,6 @@
     {
      "dex": 790,
      "name": "Cosmoem",
-     "form": null,
      "heading": "### Cosmoem (#790)",
      "lines": [
       {
@@ -43305,7 +42515,6 @@
     {
      "dex": 791,
      "name": "Solgaleo",
-     "form": null,
      "heading": "### Solgaleo (#791)",
      "lines": [
       {
@@ -43343,7 +42552,6 @@
     {
      "dex": 792,
      "name": "Lunala",
-     "form": null,
      "heading": "### Lunala (#792)",
      "lines": [
       {
@@ -43394,7 +42602,6 @@
     {
      "dex": 793,
      "name": "Nihilego",
-     "form": null,
      "heading": "### Nihilego (#793)",
      "lines": [
       {
@@ -43432,7 +42639,6 @@
     {
      "dex": 794,
      "name": "Buzzwole",
-     "form": null,
      "heading": "### Buzzwole (#794)",
      "lines": [
       {
@@ -43470,7 +42676,6 @@
     {
      "dex": 795,
      "name": "Pheromosa",
-     "form": null,
      "heading": "### Pheromosa (#795)",
      "lines": [
       {
@@ -43486,7 +42691,6 @@
     {
      "dex": 796,
      "name": "Xurkitree",
-     "form": null,
      "heading": "### Xurkitree (#796)",
      "lines": [
       {
@@ -43513,7 +42717,6 @@
     {
      "dex": 797,
      "name": "Celesteela",
-     "form": null,
      "heading": "### Celesteela (#797)",
      "lines": [
       {
@@ -43540,7 +42743,6 @@
     {
      "dex": 798,
      "name": "Kartana",
-     "form": null,
      "heading": "### Kartana (#798)",
      "lines": [
       {
@@ -43567,7 +42769,6 @@
     {
      "dex": 799,
      "name": "Guzzlord",
-     "form": null,
      "heading": "### Guzzlord (#799)",
      "lines": [
       {
@@ -43605,7 +42806,6 @@
     {
      "dex": 800,
      "name": "Necrozma",
-     "form": null,
      "heading": "### Necrozma (#800)",
      "lines": [
       {
@@ -43654,7 +42854,6 @@
     {
      "dex": 801,
      "name": "Magearna",
-     "form": null,
      "heading": "### Magearna (#801)",
      "lines": [
       {
@@ -43706,7 +42905,6 @@
     {
      "dex": 802,
      "name": "Marshadow",
-     "form": null,
      "heading": "### Marshadow (#802)",
      "lines": [
       {
@@ -43741,7 +42939,6 @@
     {
      "dex": 803,
      "name": "Poipole",
-     "form": null,
      "heading": "### Poipole (#803)",
      "lines": [
       {
@@ -43779,7 +42976,6 @@
     {
      "dex": 804,
      "name": "Naganadel",
-     "form": null,
      "heading": "### Naganadel (#804)",
      "lines": [
       {
@@ -43852,7 +43048,6 @@
     {
      "dex": 805,
      "name": "Stakataka",
-     "form": null,
      "heading": "### Stakataka (#805)",
      "lines": [
       {
@@ -43907,7 +43102,6 @@
     {
      "dex": 806,
      "name": "Blacephalon",
-     "form": null,
      "heading": "### Blacephalon (#806)",
      "lines": [
       {
@@ -43964,7 +43158,6 @@
     {
      "dex": 807,
      "name": "Zeraora",
-     "form": null,
      "heading": "### Zeraora (#807)",
      "lines": [
       {
@@ -44006,7 +43199,6 @@
     {
      "dex": 808,
      "name": "Meltan",
-     "form": null,
      "heading": "### Meltan (#808)",
      "lines": [
       {
@@ -44040,7 +43232,6 @@
     {
      "dex": 809,
      "name": "Melmetal",
-     "form": null,
      "heading": "### Melmetal (#809)",
      "lines": [
       {
@@ -44068,7 +43259,6 @@
     {
      "dex": 810,
      "name": "Grookey",
-     "form": null,
      "heading": "### Grookey (#810)",
      "lines": [
       {
@@ -44105,7 +43295,6 @@
     {
      "dex": 811,
      "name": "Thwackey",
-     "form": null,
      "heading": "### Thwackey (#811)",
      "lines": [
       {
@@ -44147,7 +43336,6 @@
     {
      "dex": 812,
      "name": "Rillaboom",
-     "form": null,
      "heading": "### Rillaboom (#812)",
      "lines": [
       {
@@ -44206,7 +43394,6 @@
     {
      "dex": 813,
      "name": "Scorbunny",
-     "form": null,
      "heading": "### Scorbunny (#813)",
      "lines": [
       {
@@ -44248,7 +43435,6 @@
     {
      "dex": 814,
      "name": "Raboot",
-     "form": null,
      "heading": "### Raboot (#814)",
      "lines": [
       {
@@ -44295,7 +43481,6 @@
     {
      "dex": 815,
      "name": "Cinderace",
-     "form": null,
      "heading": "### Cinderace (#815)",
      "lines": [
       {
@@ -44342,7 +43527,6 @@
     {
      "dex": 816,
      "name": "Sobble",
-     "form": null,
      "heading": "### Sobble (#816)",
      "lines": [
       {
@@ -44404,7 +43588,6 @@
     {
      "dex": 817,
      "name": "Drizzile",
-     "form": null,
      "heading": "### Drizzile (#817)",
      "lines": [
       {
@@ -44471,7 +43654,6 @@
     {
      "dex": 818,
      "name": "Inteleon",
-     "form": null,
      "heading": "### Inteleon (#818)",
      "lines": [
       {
@@ -44538,7 +43720,6 @@
     {
      "dex": 819,
      "name": "Skwovet",
-     "form": null,
      "heading": "### Skwovet (#819)",
      "lines": [
       {
@@ -44579,7 +43760,6 @@
     {
      "dex": 820,
      "name": "Greedent",
-     "form": null,
      "heading": "### Greedent (#820)",
      "lines": [
       {
@@ -44625,7 +43805,6 @@
     {
      "dex": 821,
      "name": "Rookidee",
-     "form": null,
      "heading": "### Rookidee (#821)",
      "lines": [
       {
@@ -44670,7 +43849,6 @@
     {
      "dex": 822,
      "name": "Corvisquire",
-     "form": null,
      "heading": "### Corvisquire (#822)",
      "lines": [
       {
@@ -44720,7 +43898,6 @@
     {
      "dex": 823,
      "name": "Corviknight",
-     "form": null,
      "heading": "### Corviknight (#823)",
      "lines": [
       {
@@ -44800,7 +43977,6 @@
     {
      "dex": 824,
      "name": "Blipbug",
-     "form": null,
      "heading": "### Blipbug (#824)",
      "lines": [
       {
@@ -44851,7 +44027,6 @@
     {
      "dex": 825,
      "name": "Dottler",
-     "form": null,
      "heading": "### Dottler (#825)",
      "lines": [
       {
@@ -44907,7 +44082,6 @@
     {
      "dex": 826,
      "name": "Orbeetle",
-     "form": null,
      "heading": "### Orbeetle (#826)",
      "lines": [
       {
@@ -44962,7 +44136,6 @@
     {
      "dex": 827,
      "name": "Nickit",
-     "form": null,
      "heading": "### Nickit (#827)",
      "lines": [
       {
@@ -45024,7 +44197,6 @@
     {
      "dex": 828,
      "name": "Thievul",
-     "form": null,
      "heading": "### Thievul (#828)",
      "lines": [
       {
@@ -45108,7 +44280,6 @@
     {
      "dex": 829,
      "name": "Gossifleur",
-     "form": null,
      "heading": "### Gossifleur (#829)",
      "lines": [
       {
@@ -45125,7 +44296,6 @@
     {
      "dex": 830,
      "name": "Eldegoss",
-     "form": null,
      "heading": "### Eldegoss (#830)",
      "lines": [
       {
@@ -45147,7 +44317,6 @@
     {
      "dex": 831,
      "name": "Wooloo",
-     "form": null,
      "heading": "### Wooloo (#831)",
      "lines": [
       {
@@ -45190,7 +44359,6 @@
     {
      "dex": 832,
      "name": "Dubwool",
-     "form": null,
      "heading": "### Dubwool (#832)",
      "lines": [
       {
@@ -45255,7 +44423,6 @@
     {
      "dex": 833,
      "name": "Chewtle",
-     "form": null,
      "heading": "### Chewtle (#833)",
      "lines": [
       {
@@ -45320,7 +44487,6 @@
     {
      "dex": 834,
      "name": "Drednaw",
-     "form": null,
      "heading": "### Drednaw (#834)",
      "lines": [
       {
@@ -45420,7 +44586,6 @@
     {
      "dex": 835,
      "name": "Yamper",
-     "form": null,
      "heading": "### Yamper (#835)",
      "lines": [
       {
@@ -45457,7 +44622,6 @@
     {
      "dex": 836,
      "name": "Boltund",
-     "form": null,
      "heading": "### Boltund (#836)",
      "lines": [
       {
@@ -45531,7 +44695,6 @@
     {
      "dex": 837,
      "name": "Rolycoly",
-     "form": null,
      "heading": "### Rolycoly (#837)",
      "lines": [
       {
@@ -45590,7 +44753,6 @@
     {
      "dex": 838,
      "name": "Carkol",
-     "form": null,
      "heading": "### Carkol (#838)",
      "lines": [
       {
@@ -45644,7 +44806,6 @@
     {
      "dex": 839,
      "name": "Coalossal",
-     "form": null,
      "heading": "### Coalossal (#839)",
      "lines": [
       {
@@ -45716,7 +44877,6 @@
     {
      "dex": 840,
      "name": "Applin",
-     "form": null,
      "heading": "### Applin (#840)",
      "lines": [
       {
@@ -45755,7 +44915,6 @@
     {
      "dex": 841,
      "name": "Flapple",
-     "form": null,
      "heading": "### Flapple (#841)",
      "lines": [
       {
@@ -45771,7 +44930,6 @@
     {
      "dex": 842,
      "name": "Appletun",
-     "form": null,
      "heading": "### Appletun (#842)",
      "lines": [
       {
@@ -45804,7 +44962,6 @@
     {
      "dex": 843,
      "name": "Silicobra",
-     "form": null,
      "heading": "### Silicobra (#843)",
      "lines": [
       {
@@ -45891,7 +45048,6 @@
     {
      "dex": 844,
      "name": "Sandaconda",
-     "form": null,
      "heading": "### Sandaconda (#844)",
      "lines": [
       {
@@ -45988,7 +45144,6 @@
     {
      "dex": 845,
      "name": "Cramorant",
-     "form": null,
      "heading": "### Cramorant (#845)",
      "lines": [
       {
@@ -46011,7 +45166,6 @@
     {
      "dex": 846,
      "name": "Arrokuda",
-     "form": null,
      "heading": "### Arrokuda (#846)",
      "lines": [
       {
@@ -46059,7 +45213,6 @@
     {
      "dex": 847,
      "name": "Barraskewda",
-     "form": null,
      "heading": "### Barraskewda (#847)",
      "lines": [
       {
@@ -46112,7 +45265,6 @@
     {
      "dex": 848,
      "name": "Toxel",
-     "form": null,
      "heading": "### Toxel (#848)",
      "lines": [
       {
@@ -46128,7 +45280,6 @@
     {
      "dex": 849,
      "name": "Toxtricity",
-     "form": null,
      "heading": "### Toxtricity (#849)",
      "lines": [
       {
@@ -46164,7 +45315,6 @@
     {
      "dex": 850,
      "name": "Sizzlipede",
-     "form": null,
      "heading": "### Sizzlipede (#850)",
      "lines": [
       {
@@ -46207,7 +45357,6 @@
     {
      "dex": 851,
      "name": "Centiskorch",
-     "form": null,
      "heading": "### Centiskorch (#851)",
      "lines": [
       {
@@ -46277,7 +45426,6 @@
     {
      "dex": 852,
      "name": "Clobbopus",
-     "form": null,
      "heading": "### Clobbopus (#852)",
      "lines": [
       {
@@ -46335,7 +45483,6 @@
     {
      "dex": 853,
      "name": "Grapploct",
-     "form": null,
      "heading": "### Grapploct (#853)",
      "lines": [
       {
@@ -46398,7 +45545,6 @@
     {
      "dex": 854,
      "name": "Sinistea",
-     "form": null,
      "heading": "### Sinistea (#854)",
      "lines": [
       {
@@ -46520,7 +45666,6 @@
     {
      "dex": 855,
      "name": "Polteageist",
-     "form": null,
      "heading": "### Polteageist (#855)",
      "lines": [
       {
@@ -46642,7 +45787,6 @@
     {
      "dex": 856,
      "name": "Hatenna",
-     "form": null,
      "heading": "### Hatenna (#856)",
      "lines": [
       {
@@ -46731,7 +45875,6 @@
     {
      "dex": 857,
      "name": "Hattrem",
-     "form": null,
      "heading": "### Hattrem (#857)",
      "lines": [
       {
@@ -46825,7 +45968,6 @@
     {
      "dex": 858,
      "name": "Hatterene",
-     "form": null,
      "heading": "### Hatterene (#858)",
      "lines": [
       {
@@ -46857,7 +45999,6 @@
     {
      "dex": 859,
      "name": "Impidimp",
-     "form": null,
      "heading": "### Impidimp (#859)",
      "lines": [
       {
@@ -46895,7 +46036,6 @@
     {
      "dex": 860,
      "name": "Morgrem",
-     "form": null,
      "heading": "### Morgrem (#860)",
      "lines": [
       {
@@ -46943,7 +46083,6 @@
     {
      "dex": 861,
      "name": "Grimmsnarl",
-     "form": null,
      "heading": "### Grimmsnarl (#861)",
      "lines": [
       {
@@ -47008,7 +46147,6 @@
     {
      "dex": 862,
      "name": "Obstagoon",
-     "form": null,
      "heading": "### Obstagoon (#862)",
      "lines": [
       {
@@ -47045,7 +46183,6 @@
     {
      "dex": 863,
      "name": "Perrserker",
-     "form": null,
      "heading": "### Perrserker (#863)",
      "lines": [
       {
@@ -47083,7 +46220,6 @@
     {
      "dex": 864,
      "name": "Cursola",
-     "form": null,
      "heading": "### Cursola (#864)",
      "lines": [
       {
@@ -47157,7 +46293,6 @@
     {
      "dex": 865,
      "name": "Sirfetch’d",
-     "form": null,
      "heading": "### Sirfetch’d (#865)",
      "lines": [
       {
@@ -47174,7 +46309,6 @@
     {
      "dex": 866,
      "name": "Mr. Rime",
-     "form": null,
      "heading": "### Mr. Rime (#866)",
      "lines": [
       {
@@ -47191,7 +46325,6 @@
     {
      "dex": 867,
      "name": "Runerigus",
-     "form": null,
      "heading": "### Runerigus (#867)",
      "lines": [
       {
@@ -47255,7 +46388,6 @@
     {
      "dex": 868,
      "name": "Milcery",
-     "form": null,
      "heading": "### Milcery (#868)",
      "lines": [
       {
@@ -47291,7 +46423,6 @@
     {
      "dex": 869,
      "name": "Alcremie",
-     "form": null,
      "heading": "### Alcremie (#869)",
      "lines": [
       {
@@ -47327,7 +46458,6 @@
     {
      "dex": 870,
      "name": "Falinks",
-     "form": null,
      "heading": "### Falinks (#870)",
      "lines": [
       {
@@ -47377,7 +46507,6 @@
     {
      "dex": 871,
      "name": "Pincurchin",
-     "form": null,
      "heading": "### Pincurchin (#871)",
      "lines": [
       {
@@ -47426,7 +46555,6 @@
     {
      "dex": 872,
      "name": "Snom",
-     "form": null,
      "heading": "### Snom (#872)",
      "lines": [
       {
@@ -47496,7 +46624,6 @@
     {
      "dex": 873,
      "name": "Frosmoth",
-     "form": null,
      "heading": "### Frosmoth (#873)",
      "lines": [
       {
@@ -47564,7 +46691,6 @@
     {
      "dex": 874,
      "name": "Stonjourner",
-     "form": null,
      "heading": "### Stonjourner (#874)",
      "lines": [
       {
@@ -47633,7 +46759,6 @@
     {
      "dex": 875,
      "name": "Eiscue",
-     "form": null,
      "heading": "### Eiscue (#875)",
      "lines": [
       {
@@ -47689,7 +46814,6 @@
     {
      "dex": 876,
      "name": "Indeedee",
-     "form": null,
      "heading": "### Indeedee (#876)",
      "lines": [
       {
@@ -47727,7 +46851,6 @@
     {
      "dex": 877,
      "name": "Morpeko",
-     "form": null,
      "heading": "### Morpeko (#877)",
      "lines": [
       {
@@ -47763,7 +46886,6 @@
     {
      "dex": 878,
      "name": "Cufant",
-     "form": null,
      "heading": "### Cufant (#878)",
      "lines": [
       {
@@ -47806,7 +46928,6 @@
     {
      "dex": 879,
      "name": "Copperajah",
-     "form": null,
      "heading": "### Copperajah (#879)",
      "lines": [
       {
@@ -47871,7 +46992,6 @@
     {
      "dex": 880,
      "name": "Dracozolt",
-     "form": null,
      "heading": "### Dracozolt (#880)",
      "lines": [
       {
@@ -47904,7 +47024,6 @@
     {
      "dex": 881,
      "name": "Arctozolt",
-     "form": null,
      "heading": "### Arctozolt (#881)",
      "lines": [
       {
@@ -47937,7 +47056,6 @@
     {
      "dex": 882,
      "name": "Dracovish",
-     "form": null,
      "heading": "### Dracovish (#882)",
      "lines": [
       {
@@ -47970,7 +47088,6 @@
     {
      "dex": 883,
      "name": "Arctovish",
-     "form": null,
      "heading": "### Arctovish (#883)",
      "lines": [
       {
@@ -47986,7 +47103,6 @@
     {
      "dex": 884,
      "name": "Duraludon",
-     "form": null,
      "heading": "### Duraludon (#884)",
      "lines": [
       {
@@ -48026,7 +47142,6 @@
     {
      "dex": 885,
      "name": "Dreepy",
-     "form": null,
      "heading": "### Dreepy (#885)",
      "lines": [
       {
@@ -48053,7 +47168,6 @@
     {
      "dex": 886,
      "name": "Drakloak",
-     "form": null,
      "heading": "### Drakloak (#886)",
      "lines": [
       {
@@ -48085,7 +47199,6 @@
     {
      "dex": 887,
      "name": "Dragapult",
-     "form": null,
      "heading": "### Dragapult (#887)",
      "lines": [
       {
@@ -48160,7 +47273,6 @@
     {
      "dex": 888,
      "name": "Zacian",
-     "form": null,
      "heading": "### Zacian (#888)",
      "lines": [
       {
@@ -48213,7 +47325,6 @@
     {
      "dex": 889,
      "name": "Zamazenta",
-     "form": null,
      "heading": "### Zamazenta (#889)",
      "lines": [
       {
@@ -48266,7 +47377,6 @@
     {
      "dex": 890,
      "name": "Eternatus",
-     "form": null,
      "heading": "### Eternatus (#890)",
      "lines": [
       {
@@ -48328,7 +47438,6 @@
     {
      "dex": 891,
      "name": "Kubfu",
-     "form": null,
      "heading": "### Kubfu (#891)",
      "lines": [
       {
@@ -48355,7 +47464,6 @@
     {
      "dex": 892,
      "name": "Urshifu",
-     "form": null,
      "heading": "### Urshifu (#892)",
      "lines": [
       {
@@ -48371,7 +47479,6 @@
     {
      "dex": 893,
      "name": "Zarude",
-     "form": null,
      "heading": "### Zarude (#893)",
      "lines": [
       {
@@ -48403,7 +47510,6 @@
     {
      "dex": 894,
      "name": "Regieleki",
-     "form": null,
      "heading": "### Regieleki (#894)",
      "lines": [
       {
@@ -48452,7 +47558,6 @@
     {
      "dex": 895,
      "name": "Regidrago",
-     "form": null,
      "heading": "### Regidrago (#895)",
      "lines": [
       {
@@ -48515,7 +47620,6 @@
     {
      "dex": 896,
      "name": "Glastrier",
-     "form": null,
      "heading": "### Glastrier (#896)",
      "lines": [
       {
@@ -48560,7 +47664,6 @@
     {
      "dex": 897,
      "name": "Spectrier",
-     "form": null,
      "heading": "### Spectrier (#897)",
      "lines": [
       {
@@ -48606,7 +47709,6 @@
     {
      "dex": 898,
      "name": "Calyrex",
-     "form": null,
      "heading": "### Calyrex (#898)",
      "lines": [
       {
@@ -48639,7 +47741,6 @@
     {
      "dex": 899,
      "name": "Wyrdeer",
-     "form": null,
      "heading": "### Wyrdeer (#899)",
      "lines": [
       {
@@ -48699,7 +47800,6 @@
     {
      "dex": 900,
      "name": "Kleavor",
-     "form": null,
      "heading": "### Kleavor (#900)",
      "lines": [
       {
@@ -48756,7 +47856,6 @@
     {
      "dex": 901,
      "name": "Ursaluna",
-     "form": null,
      "heading": "### Ursaluna (#901)",
      "lines": [
       {
@@ -48832,7 +47931,6 @@
     {
      "dex": 902,
      "name": "Basculegion",
-     "form": null,
      "heading": "### Basculegion (#902)",
      "lines": [
       {
@@ -48909,7 +48007,6 @@
     {
      "dex": 903,
      "name": "Sneasler",
-     "form": null,
      "heading": "### Sneasler (#903)",
      "lines": [
       {
@@ -48964,7 +48061,6 @@
     {
      "dex": 904,
      "name": "Overqwil",
-     "form": null,
      "heading": "### Overqwil (#904)",
      "lines": [
       {
@@ -49015,7 +48111,6 @@
     {
      "dex": 905,
      "name": "Enamorus",
-     "form": null,
      "heading": "### Enamorus (#905)",
      "lines": [
       {
@@ -49064,7 +48159,6 @@
     {
      "dex": 906,
      "name": "Sprigatito",
-     "form": null,
      "heading": "### Sprigatito (#906)",
      "lines": [
       {
@@ -49102,7 +48196,6 @@
     {
      "dex": 907,
      "name": "Floragato",
-     "form": null,
      "heading": "### Floragato (#907)",
      "lines": [
       {
@@ -49145,7 +48238,6 @@
     {
      "dex": 908,
      "name": "Meowscarada",
-     "form": null,
      "heading": "### Meowscarada (#908)",
      "lines": [
       {
@@ -49188,7 +48280,6 @@
     {
      "dex": 909,
      "name": "Fuecoco",
-     "form": null,
      "heading": "### Fuecoco (#909)",
      "lines": [
       {
@@ -49242,7 +48333,6 @@
     {
      "dex": 910,
      "name": "Crocalor",
-     "form": null,
      "heading": "### Crocalor (#910)",
      "lines": [
       {
@@ -49301,7 +48391,6 @@
     {
      "dex": 911,
      "name": "Skeledirge",
-     "form": null,
      "heading": "### Skeledirge (#911)",
      "lines": [
       {
@@ -49360,7 +48449,6 @@
     {
      "dex": 912,
      "name": "Quaxly",
-     "form": null,
      "heading": "### Quaxly (#912)",
      "lines": [
       {
@@ -49427,7 +48515,6 @@
     {
      "dex": 913,
      "name": "Quaxwell",
-     "form": null,
      "heading": "### Quaxwell (#913)",
      "lines": [
       {
@@ -49499,7 +48586,6 @@
     {
      "dex": 914,
      "name": "Quaquaval",
-     "form": null,
      "heading": "### Quaquaval (#914)",
      "lines": [
       {
@@ -49571,7 +48657,6 @@
     {
      "dex": 915,
      "name": "Lechonk",
-     "form": null,
      "heading": "### Lechonk (#915)",
      "lines": [
       {
@@ -49630,7 +48715,6 @@
     {
      "dex": 916,
      "name": "Oinkologne",
-     "form": null,
      "heading": "### Oinkologne (#916)",
      "lines": [
       {
@@ -49706,7 +48790,6 @@
     {
      "dex": 917,
      "name": "Tarountula",
-     "form": null,
      "heading": "### Tarountula (#917)",
      "lines": [
       {
@@ -49747,7 +48830,6 @@
     {
      "dex": 918,
      "name": "Spidops",
-     "form": null,
      "heading": "### Spidops (#918)",
      "lines": [
       {
@@ -49793,7 +48875,6 @@
     {
      "dex": 919,
      "name": "Nymble",
-     "form": null,
      "heading": "### Nymble (#919)",
      "lines": [
       {
@@ -49845,7 +48926,6 @@
     {
      "dex": 920,
      "name": "Lokix",
-     "form": null,
      "heading": "### Lokix (#920)",
      "lines": [
       {
@@ -49912,7 +48992,6 @@
     {
      "dex": 921,
      "name": "Pawmi",
-     "form": null,
      "heading": "### Pawmi (#921)",
      "lines": [
       {
@@ -49950,7 +49029,6 @@
     {
      "dex": 922,
      "name": "Pawmo",
-     "form": null,
      "heading": "### Pawmo (#922)",
      "lines": [
       {
@@ -49993,7 +49071,6 @@
     {
      "dex": 923,
      "name": "Pawmot",
-     "form": null,
      "heading": "### Pawmot (#923)",
      "lines": [
       {
@@ -50036,7 +49113,6 @@
     {
      "dex": 924,
      "name": "Tandemaus",
-     "form": null,
      "heading": "### Tandemaus (#924)",
      "lines": [
       {
@@ -50073,7 +49149,6 @@
     {
      "dex": 925,
      "name": "Maushold",
-     "form": null,
      "heading": "### Maushold (#925)",
      "lines": [
       {
@@ -50115,7 +49190,6 @@
     {
      "dex": 926,
      "name": "Fidough",
-     "form": null,
      "heading": "### Fidough (#926)",
      "lines": [
       {
@@ -50151,7 +49225,6 @@
     {
      "dex": 927,
      "name": "Dachsbun",
-     "form": null,
      "heading": "### Dachsbun (#927)",
      "lines": [
       {
@@ -50192,7 +49265,6 @@
     {
      "dex": 928,
      "name": "Smoliv",
-     "form": null,
      "heading": "### Smoliv (#928)",
      "lines": [
       {
@@ -50229,7 +49301,6 @@
     {
      "dex": 929,
      "name": "Dolliv",
-     "form": null,
      "heading": "### Dolliv (#929)",
      "lines": [
       {
@@ -50271,7 +49342,6 @@
     {
      "dex": 930,
      "name": "Arboliva",
-     "form": null,
      "heading": "### Arboliva (#930)",
      "lines": [
       {
@@ -50313,7 +49383,6 @@
     {
      "dex": 931,
      "name": "Squawkabilly",
-     "form": null,
      "heading": "### Squawkabilly (#931)",
      "lines": [
       {
@@ -50355,7 +49424,6 @@
     {
      "dex": 932,
      "name": "Nacli",
-     "form": null,
      "heading": "### Nacli (#932)",
      "lines": [
       {
@@ -50393,7 +49461,6 @@
     {
      "dex": 933,
      "name": "Naclstack",
-     "form": null,
      "heading": "### Naclstack (#933)",
      "lines": [
       {
@@ -50441,7 +49508,6 @@
     {
      "dex": 934,
      "name": "Garganacl",
-     "form": null,
      "heading": "### Garganacl (#934)",
      "lines": [
       {
@@ -50489,7 +49555,6 @@
     {
      "dex": 935,
      "name": "Charcadet",
-     "form": null,
      "heading": "### Charcadet (#935)",
      "lines": [
       {
@@ -50537,7 +49602,6 @@
     {
      "dex": 936,
      "name": "Armarouge",
-     "form": null,
      "heading": "### Armarouge (#936)",
      "lines": [
       {
@@ -50590,7 +49654,6 @@
     {
      "dex": 937,
      "name": "Ceruledge",
-     "form": null,
      "heading": "### Ceruledge (#937)",
      "lines": [
       {
@@ -50638,7 +49701,6 @@
     {
      "dex": 938,
      "name": "Tadbulb",
-     "form": null,
      "heading": "### Tadbulb (#938)",
      "lines": [
       {
@@ -50674,7 +49736,6 @@
     {
      "dex": 939,
      "name": "Bellibolt",
-     "form": null,
      "heading": "### Bellibolt (#939)",
      "lines": [
       {
@@ -50732,7 +49793,6 @@
     {
      "dex": 940,
      "name": "Wattrel",
-     "form": null,
      "heading": "### Wattrel (#940)",
      "lines": [
       {
@@ -50749,7 +49809,6 @@
     {
      "dex": 941,
      "name": "Kilowattrel",
-     "form": null,
      "heading": "### Kilowattrel (#941)",
      "lines": [
       {
@@ -50801,7 +49860,6 @@
     {
      "dex": 942,
      "name": "Maschiff",
-     "form": null,
      "heading": "### Maschiff (#942)",
      "lines": [
       {
@@ -50837,7 +49895,6 @@
     {
      "dex": 943,
      "name": "Mabosstiff",
-     "form": null,
      "heading": "### Mabosstiff (#943)",
      "lines": [
       {
@@ -50878,7 +49935,6 @@
     {
      "dex": 944,
      "name": "Shroodle",
-     "form": null,
      "heading": "### Shroodle (#944)",
      "lines": [
       {
@@ -50917,7 +49973,6 @@
     {
      "dex": 945,
      "name": "Grafaiai",
-     "form": null,
      "heading": "### Grafaiai (#945)",
      "lines": [
       {
@@ -50961,7 +50016,6 @@
     {
      "dex": 946,
      "name": "Bramblin",
-     "form": null,
      "heading": "### Bramblin (#946)",
      "lines": [
       {
@@ -51016,7 +50070,6 @@
     {
      "dex": 947,
      "name": "Brambleghast",
-     "form": null,
      "heading": "### Brambleghast (#947)",
      "lines": [
       {
@@ -51076,7 +50129,6 @@
     {
      "dex": 948,
      "name": "Toedscool",
-     "form": null,
      "heading": "### Toedscool (#948)",
      "lines": [
       {
@@ -51129,7 +50181,6 @@
     {
      "dex": 949,
      "name": "Toedscruel",
-     "form": null,
      "heading": "### Toedscruel (#949)",
      "lines": [
       {
@@ -51187,7 +50238,6 @@
     {
      "dex": 950,
      "name": "Klawf",
-     "form": null,
      "heading": "### Klawf (#950)",
      "lines": [
       {
@@ -51225,7 +50275,6 @@
     {
      "dex": 951,
      "name": "Capsakid",
-     "form": null,
      "heading": "### Capsakid (#951)",
      "lines": [
       {
@@ -51280,7 +50329,6 @@
     {
      "dex": 952,
      "name": "Scovillain",
-     "form": null,
      "heading": "### Scovillain (#952)",
      "lines": [
       {
@@ -51340,7 +50388,6 @@
     {
      "dex": 953,
      "name": "Rellor",
-     "form": null,
      "heading": "### Rellor (#953)",
      "lines": [
       {
@@ -51378,7 +50425,6 @@
     {
      "dex": 954,
      "name": "Rabsca",
-     "form": null,
      "heading": "### Rabsca (#954)",
      "lines": [
       {
@@ -51421,7 +50467,6 @@
     {
      "dex": 955,
      "name": "Flittle",
-     "form": null,
      "heading": "### Flittle (#955)",
      "lines": [
       {
@@ -51459,7 +50504,6 @@
     {
      "dex": 956,
      "name": "Espathra",
-     "form": null,
      "heading": "### Espathra (#956)",
      "lines": [
       {
@@ -51519,7 +50563,6 @@
     {
      "dex": 957,
      "name": "Tinkatink",
-     "form": null,
      "heading": "### Tinkatink (#957)",
      "lines": [
       {
@@ -51555,7 +50598,6 @@
     {
      "dex": 958,
      "name": "Tinkatuff",
-     "form": null,
      "heading": "### Tinkatuff (#958)",
      "lines": [
       {
@@ -51596,7 +50638,6 @@
     {
      "dex": 959,
      "name": "Tinkaton",
-     "form": null,
      "heading": "### Tinkaton (#959)",
      "lines": [
       {
@@ -51637,7 +50678,6 @@
     {
      "dex": 960,
      "name": "Wiglett",
-     "form": null,
      "heading": "### Wiglett (#960)",
      "lines": [
       {
@@ -51654,7 +50694,6 @@
     {
      "dex": 961,
      "name": "Wugtrio",
-     "form": null,
      "heading": "### Wugtrio (#961)",
      "lines": [
       {
@@ -51676,7 +50715,6 @@
     {
      "dex": 962,
      "name": "Bombirdier",
-     "form": null,
      "heading": "### Bombirdier (#962)",
      "lines": [
       {
@@ -51693,7 +50731,6 @@
     {
      "dex": 963,
      "name": "Finizen",
-     "form": null,
      "heading": "### Finizen (#963)",
      "lines": [
       {
@@ -51710,7 +50747,6 @@
     {
      "dex": 964,
      "name": "Palafin",
-     "form": null,
      "heading": "### Palafin (#964)",
      "lines": [
       {
@@ -51727,7 +50763,6 @@
     {
      "dex": 965,
      "name": "Varoom",
-     "form": null,
      "heading": "### Varoom (#965)",
      "lines": [
       {
@@ -51764,7 +50799,6 @@
     {
      "dex": 966,
      "name": "Revavroom",
-     "form": null,
      "heading": "### Revavroom (#966)",
      "lines": [
       {
@@ -51823,7 +50857,6 @@
     {
      "dex": 967,
      "name": "Cyclizar",
-     "form": null,
      "heading": "### Cyclizar (#967)",
      "lines": [
       {
@@ -51880,7 +50913,6 @@
     {
      "dex": 968,
      "name": "Orthworm",
-     "form": null,
      "heading": "### Orthworm (#968)",
      "lines": [
       {
@@ -51952,7 +50984,6 @@
     {
      "dex": 969,
      "name": "Glimmet",
-     "form": null,
      "heading": "### Glimmet (#969)",
      "lines": [
       {
@@ -51995,7 +51026,6 @@
     {
      "dex": 970,
      "name": "Glimmora",
-     "form": null,
      "heading": "### Glimmora (#970)",
      "lines": [
       {
@@ -52043,7 +51073,6 @@
     {
      "dex": 971,
      "name": "Greavard",
-     "form": null,
      "heading": "### Greavard (#971)",
      "lines": [
       {
@@ -52092,7 +51121,6 @@
     {
      "dex": 972,
      "name": "Houndstone",
-     "form": null,
      "heading": "### Houndstone (#972)",
      "lines": [
       {
@@ -52146,7 +51174,6 @@
     {
      "dex": 973,
      "name": "Flamigo",
-     "form": null,
      "heading": "### Flamigo (#973)",
      "lines": [
       {
@@ -52202,7 +51229,6 @@
     {
      "dex": 974,
      "name": "Cetoddle",
-     "form": null,
      "heading": "### Cetoddle (#974)",
      "lines": [
       {
@@ -52240,7 +51266,6 @@
     {
      "dex": 975,
      "name": "Cetitan",
-     "form": null,
      "heading": "### Cetitan (#975)",
      "lines": [
       {
@@ -52300,7 +51325,6 @@
     {
      "dex": 976,
      "name": "Veluza",
-     "form": null,
      "heading": "### Veluza (#976)",
      "lines": [
       {
@@ -52347,7 +51371,6 @@
     {
      "dex": 977,
      "name": "Dondozo",
-     "form": null,
      "heading": "### Dondozo (#977)",
      "lines": [
       {
@@ -52429,7 +51452,6 @@
     {
      "dex": 978,
      "name": "Tatsugiri",
-     "form": null,
      "heading": "### Tatsugiri (#978)",
      "lines": [
       {
@@ -52490,7 +51512,6 @@
     {
      "dex": 979,
      "name": "Annihilape",
-     "form": null,
      "heading": "### Annihilape (#979)",
      "lines": [
       {
@@ -52535,7 +51556,6 @@
     {
      "dex": 980,
      "name": "Clodsire",
-     "form": null,
      "heading": "### Clodsire (#980)",
      "lines": [
       {
@@ -52631,7 +51651,6 @@
     {
      "dex": 981,
      "name": "Farigiraf",
-     "form": null,
      "heading": "### Farigiraf (#981)",
      "lines": [
       {
@@ -52690,7 +51709,6 @@
     {
      "dex": 982,
      "name": "Dudunsparce",
-     "form": null,
      "heading": "### Dudunsparce (#982)",
      "lines": [
       {
@@ -52748,7 +51766,6 @@
     {
      "dex": 983,
      "name": "Kingambit",
-     "form": null,
      "heading": "### Kingambit (#983)",
      "lines": [
       {
@@ -52764,7 +51781,6 @@
     {
      "dex": 984,
      "name": "Great Tusk",
-     "form": null,
      "heading": "### Great Tusk (#984)",
      "lines": [
       {
@@ -52791,7 +51807,6 @@
     {
      "dex": 985,
      "name": "Scream Tail",
-     "form": null,
      "heading": "### Scream Tail (#985)",
      "lines": [
       {
@@ -52835,7 +51850,6 @@
     {
      "dex": 986,
      "name": "Brute Bonnet",
-     "form": null,
      "heading": "### Brute Bonnet (#986)",
      "lines": [
       {
@@ -52862,7 +51876,6 @@
     {
      "dex": 987,
      "name": "Flutter Mane",
-     "form": null,
      "heading": "### Flutter Mane (#987)",
      "lines": [
       {
@@ -52889,7 +51902,6 @@
     {
      "dex": 988,
      "name": "Slither Wing",
-     "form": null,
      "heading": "### Slither Wing (#988)",
      "lines": [
       {
@@ -52916,7 +51928,6 @@
     {
      "dex": 989,
      "name": "Sandy Shocks",
-     "form": null,
      "heading": "### Sandy Shocks (#989)",
      "lines": [
       {
@@ -52943,7 +51954,6 @@
     {
      "dex": 990,
      "name": "Iron Treads",
-     "form": null,
      "heading": "### Iron Treads (#990)",
      "lines": [
       {
@@ -52970,7 +51980,6 @@
     {
      "dex": 991,
      "name": "Iron Bundle",
-     "form": null,
      "heading": "### Iron Bundle (#991)",
      "lines": [
       {
@@ -52987,7 +51996,6 @@
     {
      "dex": 992,
      "name": "Iron Hands",
-     "form": null,
      "heading": "### Iron Hands (#992)",
      "lines": [
       {
@@ -53025,7 +52033,6 @@
     {
      "dex": 993,
      "name": "Iron Jugulis",
-     "form": null,
      "heading": "### Iron Jugulis (#993)",
      "lines": [
       {
@@ -53063,7 +52070,6 @@
     {
      "dex": 994,
      "name": "Iron Moth",
-     "form": null,
      "heading": "### Iron Moth (#994)",
      "lines": [
       {
@@ -53090,7 +52096,6 @@
     {
      "dex": 995,
      "name": "Iron Thorns",
-     "form": null,
      "heading": "### Iron Thorns (#995)",
      "lines": [
       {
@@ -53117,7 +52122,6 @@
     {
      "dex": 996,
      "name": "Frigibax",
-     "form": null,
      "heading": "### Frigibax (#996)",
      "lines": [
       {
@@ -53159,7 +52163,6 @@
     {
      "dex": 997,
      "name": "Arctibax",
-     "form": null,
      "heading": "### Arctibax (#997)",
      "lines": [
       {
@@ -53206,7 +52209,6 @@
     {
      "dex": 998,
      "name": "Baxcalibur",
-     "form": null,
      "heading": "### Baxcalibur (#998)",
      "lines": [
       {
@@ -53253,7 +52255,6 @@
     {
      "dex": 999,
      "name": "Gimmighoul",
-     "form": null,
      "heading": "### Gimmighoul (#999)",
      "lines": [
       {
@@ -53289,7 +52290,6 @@
     {
      "dex": 1000,
      "name": "Gholdengo",
-     "form": null,
      "heading": "### Gholdengo (#1000)",
      "lines": [
       {
@@ -53305,7 +52305,6 @@
     {
      "dex": 1001,
      "name": "Wo-Chien",
-     "form": null,
      "heading": "### Wo-Chien (#1001)",
      "lines": [
       {
@@ -53350,7 +52349,6 @@
     {
      "dex": 1002,
      "name": "Chien-Pao",
-     "form": null,
      "heading": "### Chien-Pao (#1002)",
      "lines": [
       {
@@ -53377,7 +52375,6 @@
     {
      "dex": 1003,
      "name": "Ting-Lu",
-     "form": null,
      "heading": "### Ting-Lu (#1003)",
      "lines": [
       {
@@ -53421,7 +52418,6 @@
     {
      "dex": 1004,
      "name": "Chi-Yu",
-     "form": null,
      "heading": "### Chi-Yu (#1004)",
      "lines": [
       {
@@ -53453,7 +52449,6 @@
     {
      "dex": 1005,
      "name": "Roaring Moon",
-     "form": null,
      "heading": "### Roaring Moon (#1005)",
      "lines": [
       {
@@ -53480,7 +52475,6 @@
     {
      "dex": 1006,
      "name": "Iron Valiant",
-     "form": null,
      "heading": "### Iron Valiant (#1006)",
      "lines": [
       {
@@ -53507,7 +52501,6 @@
     {
      "dex": 1007,
      "name": "Koraidon",
-     "form": null,
      "heading": "### Koraidon (#1007)",
      "lines": [
       {
@@ -53544,7 +52537,6 @@
     {
      "dex": 1008,
      "name": "Miraidon",
-     "form": null,
      "heading": "### Miraidon (#1008)",
      "lines": [
       {
@@ -53576,7 +52568,6 @@
     {
      "dex": 1009,
      "name": "Walking Wake",
-     "form": null,
      "heading": "### Walking Wake (#1009)",
      "lines": [
       {
@@ -53603,7 +52594,6 @@
     {
      "dex": 1010,
      "name": "Iron Leaves",
-     "form": null,
      "heading": "### Iron Leaves (#1010)",
      "lines": [
       {
@@ -53620,7 +52610,6 @@
     {
      "dex": 1011,
      "name": "Dipplin",
-     "form": null,
      "heading": "### Dipplin (#1011)",
      "lines": [
       {
@@ -53636,7 +52625,6 @@
     {
      "dex": 1012,
      "name": "Poltchageist",
-     "form": null,
      "heading": "### Poltchageist (#1012)",
      "lines": [
       {
@@ -53710,7 +52698,6 @@
     {
      "dex": 1013,
      "name": "Sinistcha",
-     "form": null,
      "heading": "### Sinistcha (#1013)",
      "lines": [
       {
@@ -53784,7 +52771,6 @@
     {
      "dex": 1014,
      "name": "Okidogi",
-     "form": null,
      "heading": "### Okidogi (#1014)",
      "lines": [
       {
@@ -53811,7 +52797,6 @@
     {
      "dex": 1015,
      "name": "Munkidori",
-     "form": null,
      "heading": "### Munkidori (#1015)",
      "lines": [
       {
@@ -53836,7 +52821,6 @@
     {
      "dex": 1016,
      "name": "Fezandipiti",
-     "form": null,
      "heading": "### Fezandipiti (#1016)",
      "lines": [
       {
@@ -53863,7 +52847,6 @@
     {
      "dex": 1017,
      "name": "Ogerpon",
-     "form": null,
      "heading": "### Ogerpon (#1017)",
      "lines": [
       {
@@ -53897,7 +52880,6 @@
     {
      "dex": 1018,
      "name": "Archaludon",
-     "form": null,
      "heading": "### Archaludon (#1018)",
      "lines": [
       {
@@ -53930,7 +52912,6 @@
     {
      "dex": 1019,
      "name": "Hydrapple",
-     "form": null,
      "heading": "### Hydrapple (#1019)",
      "lines": [
       {
@@ -53963,7 +52944,6 @@
     {
      "dex": 1020,
      "name": "Gouging Fire",
-     "form": null,
      "heading": "### Gouging Fire (#1020)",
      "lines": [
       {
@@ -54007,7 +52987,6 @@
     {
      "dex": 1021,
      "name": "Raging Bolt",
-     "form": null,
      "heading": "### Raging Bolt (#1021)",
      "lines": [
       {
@@ -54051,7 +53030,6 @@
     {
      "dex": 1022,
      "name": "Iron Boulder",
-     "form": null,
      "heading": "### Iron Boulder (#1022)",
      "lines": [
       {
@@ -54078,7 +53056,6 @@
     {
      "dex": 1023,
      "name": "Iron Crown",
-     "form": null,
      "heading": "### Iron Crown (#1023)",
      "lines": [
       {
@@ -54122,7 +53099,6 @@
     {
      "dex": 1024,
      "name": "Terapagos",
-     "form": null,
      "heading": "### Terapagos (#1024)",
      "lines": [
       {
@@ -54157,7 +53133,6 @@
     {
      "dex": 1025,
      "name": "Pecharunt",
-     "form": null,
      "heading": "### Pecharunt (#1025)",
      "lines": [
       {

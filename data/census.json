@@ -1,4 +1,5 @@
 {
+  "sha256": "9281a01982ff4f827be93ebb700752329a7f02f2969d0b64cf3345c9933dbd3e",
   "bytes": 269694,
   "lines": 7281,
   "h1": 2,
@@ -24,5 +25,7 @@
   "realm_nether": 136,
   "realm_mars": 48,
   "realm_venus": 60,
-  "realm_glacio": 27
+  "realm_glacio": 27,
+  "realm_end": 132,
+  "realm_overworld": 76
 }
