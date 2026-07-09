@@ -4,6 +4,8 @@
 
 **Spawns are heavily redistributed** — many Pokémon live in different biomes/dimensions than base Cobblemon, and each planet has themed spawns. Use this wiki or the in-game **PokéNav**, not vanilla guides.
 
+**Time of day matters** — many Pokémon only appear at **night** or in **daytime** (marked on their entry). Each planet has its own rhythm: the **Moon** is mostly nocturnal, **Mars** a daytime world, **Venus** and **Glacio** spawn around the clock. Many Overworld species are also night/day-locked in *specific* biomes — the in-game **PokéNav** shows the exact local pool.
+
 **Gym Leaders, Elite Four, Champions & Team villains do NOT spawn randomly** — they're placed as story battles.
 
 **Loot is per-player** (Lootr) — everyone gets their own roll on each chest.
